@@ -1,0 +1,12 @@
+[Schweiz] Swissmem Tech-Industrie H1 2026 Auftragseingaenge +12,1 Umsaetze +2,5 Exporte +1,7 34,5 Mrd KMU-Umsaetze -3,8 EBIT-Margen Viertel negativ US-Zoelle 12,5 Prozent Erholung fragil ungleich
+[Schweiz] SMI Montag 24 August rund 14'417 minus 0,27 Prozent schwaecher
+[Apple] iOS 27 iPadOS 27 macOS 27 Golden Gate watchOS 27 tvOS Entwickler-Beta 7 oeffentliche Beta 5 24 August Fehlerkorrekturen Stabilitaet Release Mitte September
+[Apple] macOS Tahoe 26.7 RC Leak Ursache versehentlich interner Test-Build gemischt Home-Hub AirPods Kameras oeffentlicher Release Verweise raus
+[Raumfahrt] Ariane 6 MTG-I2 Wettersatellit Start 27 August Kourou erster Flug geostationaer 36'000 km Ariane 62 vervollstaendigt MTG-Imager-Paar alle 2,5 Minuten Bild Europa Funktionstests abgeschlossen
+[Raumfahrt] SpaceX Falcon 9 B1067 37. Flug Wiederverwendungs-Rekord 25 August meiste Fluege einer Erststufe
+[AI] Anthropic Claude Tag Slack liest ganzen Kanal statt Einzelnachricht Klassifikator weg vier Optionen antworten Thread einordnen schweigen 30 Prozent bessere Entscheidung Kontext keine Nutzungslimiten multiplayer
+[AI] Google Antigravity Coding-Agent IDEs VS Code Visual Studio JetBrains Zed Budget-Obergrenzen geteilte Kontingente Kostenkontrolle Enterprise
+[AI] OpenAI ruhig nichts Neues
+[Termin] Ariane 6 MTG-I2 erster geostationaerer Flug 27 August Donnerstag
+[Termin] NASA Roman Weltraumteleskop Falcon Heavy 30 August Sonntag
+[Termin] Apple Event 9 September neue iPhones
