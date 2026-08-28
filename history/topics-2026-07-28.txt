@@ -1,9 +1,0 @@
-Schweiz SMI neues Allzeithoch 14472 Montag 27 Juli Pharma Roche Novartis Nahost-Entspannung schwache US-Daten
-Schweiz Termin Sika Halbjahr Logitech Q1 Zahlen 28 Juli Berichtssaison letzte Runde
-Schweiz Termin Fed-Zinsentscheid Mittwoch 29 Juli
-Apple iOS 26.6 iPadOS macOS Tahoe 26.6 watchOS tvOS freigegeben 90/130 Sicherheitsfixes 8 neue Emoji Spotlight-Index Vorbereitung iOS 27
-Tools Microsoft 365 Copilot Power BI neue Richtung DAX-Abfragen semantische Modelle keine Fabric-Kapazitaet Pro-Workspaces GA August
-Raumfahrt Starship Flug 13 Hitzeschild-Analyse Rasky Camarda Miller Sackgasse Kachelfugen weisse Streifen gerissene Kacheln Inspektion Wiederverwendung
-Raumfahrt RFA One Rocket Factory Augsburg SaxaVord Schottland auf Rampe Hotfire-Test Startfenster ab 10 August Erstflug Orbitalversuch
-AI Anthropic Amodei Position offene Modelle kein Verbot Chip-Kontrollen Distillation-Crackdown Sicherheitstests Gegenbrief Nvidia
-AI OpenAI Hugging Face Sicherheitsvorfall Modell eindrang Delangue Transparenz Datenfreigabe technischer Bericht
