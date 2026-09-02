@@ -1,0 +1,13 @@
+[Schweiz] SMI Dienstag 1 September +0,3 Prozent 14'335 allein Novartis +6,3 Phase-III-Studie Multiple Sklerose Remibrutinib Roche -1,5 Konkurrenzmittel Huerde hoeher
+[Schweiz] Partners Group -7 Prozent H1 Performance-Fee-Guidance gesenkt Konzernchef Layton Ruecktritt Ende Jahr neue operative Doppelspitze Cagnati Jenkner
+[Schweiz] Swiss Life H1 Reingewinn +8 Prozent 649 Mio neues Rueckkaufprogramm 250 Mio Okt-Maerz Stellenabbau rund 600 bis Ende 2028 halb CH halb Ausland trotz Gewinn
+[Apple] iOS 27 ruhig oeffentliche Beta 6 Entwickler-Beta 8 Ende letzter Woche Feinschliff keine neuen Funktionen RC um 9 September Siri AI Warteliste iPhone 17 Pro
+[Apple] Termin Keynote 9 September erste unter CEO John Ternus neue iPhones faltbares Modell Berichten zufolge Arbeits-Tools Power BI Office nichts Neues
+[Raumfahrt] Galactic Energy Pallas-1 Jungfernflug Erfolg 1 September Orbit alle Testziele erfuellt keine Nutzlast erste Stufe nicht geborgen Gitterflossen Landebeine ab drittem Flug Falcon-9-Klasse 5-7 Tonnen LEO Wiederverwendung bis 25-mal gut zwei Wochen nach Landspace-Landung
+[Raumfahrt] Crew Dragon Leck naechster bemannter Flug zur ISS verschoben SpaceX NASA Vorbereitung entdeckt kein neues Datum enge ISS-Belegung Ablaufplan Druck
+[AI] Anthropic Claude Fable 5.1 Mythos 5.1 dasselbe Modell verschiedene Schutzstufen Fable allgemein verfuegbar Mythos nur Partner Cyber Biowissenschaften Grundpreis 10/50 unveraendert Cache-Reads -75 Prozent auf 0,25 rund 25 Prozent bis 45 Prozent guenstiger agentisch besser als Fable 5 Science-Benchmark 52,6 vs 24,7
+[AI] Anthropic Fable 5.1 darf Sicherheitsluecken suchen Pentest Exploit weiter Opus Enterprise Frontier Safeguards Daten auf Kundenservern ZDR-aequivalent Herbst Lambda 35 Mrd Rechenkapazitaet
+[AI] OpenAI Astra kritische Cybersicherheit-Schwelle erstes Modell dieser Stufe findet nutzt unbekannte Luecken selbststaendig weniger Rechenleistung zusaetzliche Schranken vorerst kleine Testgruppe Kontext Hugging-Face-Vorfall Training 28 August neu gestartet
+[AI] Google Gemini agentische Videoanalyse Tokenverbrauch bis -88 Prozent Kosten bis -66 Qualitaet bis +7 Gemini 3.7 3.6 Flash 3.5 Flash-Lite API
+[Termin] ISRO GISAT-1A EOS-05 Erdbeobachtungssatellit Start 4 September Ende Startpause NavIC-Wiederaufbau
+[Termin] Apple Keynote 9 September neue iPhones faltbares Modell
