@@ -1,0 +1,15 @@
+[Schweiz] Novartis Erholung Donnerstag 10 September rund +1 Prozent Analysten Rückgang übertrieben Morningstar Fair Value auf 105 Franken gesenkt Zweifel Avidity-Wirkstoffe
+[Schweiz] IBM Lockheed Martin ETH Zürich Quanten-Hub erster Quantencomputer der Schweiz IBM Quantum System Two Lugano Ende 2026
+[Schweiz] Gewerkschaftsbund SGB Lohnforderung 2027 generell 2,5 Prozent Maillard Reallohn Krankenkassenprämien
+[Apple] macOS 27 Golden Gate Release 14 September letzte Rosetta-Version danach Apple-Silicon-only Xcode 27 RC App-Store-Einreichungen offen iOS 27 watchOS 27 ebenfalls 14 September
+[Tools] Microsoft 365 Copilot Vibe Working Agent Mode Excel Word Office Agent Copilot Chat auf Anthropic-Modellen US Web Frontier
+[Raumfahrt] Blue Origin New Glenn Oberstufe GS2 zu NASA Stennis B-2 Prüfstand Heisslauf diesen Herbst BE-3-Triebwerke Artemis 2027 Dave Limp Apollo-Saturn-V-Stand
+[Raumfahrt] Starship Flug 15 Parallelvorbereitung Booster 22 Ship 42 Kryo-Test Massey's FCC-Fenster 28 Sept 2026 bis 28 März 2027 Flug 14 ab 15 September 20 Starlink V3 kein Turmfang Splashdown Indischer Ozean
+[AI] Anthropic dritter Missbrauchsbericht Threat Intelligence Cyberattacken staatliche Überwachung Waffen-Software Biowaffen Chikungunya Militärinstitut nur Distillation-Fall mit Fable Mythos
+[AI] OpenAI GPT-Live-1 in API full-duplex 0,05 Dollar pro Minute Telefon Support Agenten Backend GPT-6 Astra
+[AI] OpenAI ChatGPT for Financial Services Morgan Stanley Evercore GPT-6 Astra Nachwuchs-Banker Daten LSEG PitchBook Daloopa
+[AI] OpenAI Data-Agent ChatGPT Work interaktive Dashboards arbeitet mit Power BI Tableau
+[AI] Google Gemini eigene Windows-App Alt plus Leertaste Overlay über jede Anwendung
+[Termin] iPhone 18 Pro Vorbestellung 12 September Verkauf 18 September
+[Termin] Starship Flug 14 Startfenster ab 15 September erster echter Orbitalversuch
+[Termin] SNB Zinsentscheid 24 September
