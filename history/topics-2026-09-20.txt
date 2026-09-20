@@ -1,0 +1,13 @@
+[Schweiz] Migros pruft groessten Umbau der Geschichte NZZ am Sonntag zehn Regionalgenossenschaften zur Disposition Zusammenlegung oder Abschaffung Grund zu geringe Effizienz Duttweiler-Struktur starke Regionen schwache Zentrale erst intern
+[Schweiz] SMI-Umbau Montag 21 September Sandoz Galderma rein Swisscom Kuehne+Nagel raus
+[Apple/Tools] Microsoft Copilot Notebooks bindet Power-BI-Berichte als Quelle ein MC1474458 Zusammenfassungen Briefings Praesentationen aus echten Berichtsdaten oeffentliche Vorschau spaeter September GA Ende Oktober kein Setup noetig
+[Apple/Tools] Microsoft Power Platform model app-builder skill GA baut modellgesteuerte Apps aus natuerlicher Sprache mit Claude Code oder GitHub Copilot
+[Apple] iOS 27.2 erste Beta diese Woche ueberspringt 27.1 fuer Allgemeinheit ueberarbeitete Health-App in Beta aber nicht in oeffentlicher 27.2-Version iPhone 17 Pro
+[Raumfahrt] Nancy-Grace-Roman-Weltraumteleskop Wide Field Instrument 300 Megapixel Infrarotkamera eingeschaltet 11 Sept erstes Sternenlicht first light Testbild unscharf verwaschene Ringe Optik noch nicht fokussiert Nachweis Kamera intakt erste Wissenschaftsbilder Anfang 2027 dunkle Energie Materie Exoplaneten TWIS
+[AI] Anthropic erwaegt laut Reuters neues Claude-Modell gegen OpenAI GPT-6 Astra Ausloeser Astra legt bei Firmenkunden zu Ramp 13 vs Fable 8 Prozent OpenRouter erstmals seit ueber zwei Jahren OpenAI-Ausgaben ueber Anthropic Modell unbestaetigt zuerst Sicherheitspruefung Zeitpunkt naehe moeglicher Boersengang November rund zwei Billionen Dollar bis 100 Mrd
+[AI] Anthropic Accenture erster embedded evaluator 18 Sept Faculty prueft Modelle von innen Mitarbeiter-Zugang Red-Teaming Alignment Safeguards je mindestens 1 Mrd Dollar ueber fuenf Jahre total 2 Mrd erster Schritt Amodei Slowdown-Aufruf Interessenkonflikt Anthropic zahlt selbst Accenture zugleich groesster Claude-Code-Kunde nicht ideale Loesung METR im Gespraech
+[AI] OpenAI ruhig weiterer Ausbau Werbung ChatGPT Free Go 60 CPM Sponsored Agents
+[Termin] SNB Zinsentscheid Donnerstag 24 September nach Inflationssprung August
+[Termin] Eidg Abstimmung 27 September Neutralitaets- und Ernaehrungsinitiative beide in Umfragen klar zurueck Nein-Trend
+[Termin] Starship Flug 14 erster echter Orbitalflug fruehestens Montag 28 September 26 Starlink V3
+[Termin] SMI-Umbau Montag 21 September
