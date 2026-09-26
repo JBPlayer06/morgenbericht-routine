@@ -1,0 +1,16 @@
+[Schweiz] SMI Freitag 25 Sept +0,29 Prozent 13'945 Tageshoch 14'030 Wochenplus 1,2 Iran-Vorschlag USA Strasse Hormus nach sieben Tagen oeffnen Oel kurz beruhigt UBS +2 Fusionsgeruecht Morgan Stanley um strengeres Eigenmittelregime Bundesrat zu entgehen unbestaetigt Huber+Suhner +3,4 uebernimmt Connected-Intelligence-Geschaeft Motion Applied
+[Schweiz] Abstimmung Sonntag 27 Sept Neutralitaetsinitiative Ernaehrungsinitiative beide vor klarer Ablehnung letzte Umfragen
+[Apple] iOS 27.0.1 Anfang naechster Woche Apple bestaetigt Fix Face-ID-Reboot iPhone 18 Pro fuer iPhone 17 Pro kleine Korrekturen
+[Tools] Microsoft neues Copilot 25 Sept Home Code Autopilot Office in Copilot Word Excel PowerPoint direkt bearbeitbare Dateien Fabric IQ Power-BI-Datenmodelle allgemein verfuegbar Chat Cowork Agentenarbeit nach Verbrauch abgerechnet vieles erst Frontier-Vorabprogramm
+[Raumfahrt] Starship Flug 14 Betankungstest WDR 24 Sept abgeschlossen erster echter Orbitalflug Montag 28 Sept Fenster ab 14.15 MESZ sechs Umkreisungen knapp zehn Stunden 26 Starlink V3 Wasserung Pazifik Chile FAA-Lizenz fehlt noch zwei weitere Oktober-Starts Flug 15 19 Okt erster KSC-Start Florida Ende Okt Starlink 30-1
+[Raumfahrt] Blue Origin erste Aussenfinanzierung rund 10 Mrd Dollar Bewertung 140 Mrd Bezos +2 Mrd kumuliert 30 Mrd Geld fuer New-Glenn-Rueckkehr nach Explosion Mai TeraWave-Satellitennetz
+[Raumfahrt] Crew-13 NASA Flight Readiness Review 25 Sept bestanden go bemannter ISS-Flug fruehestens 1 Oktober Watkins Delaney Kutryk Teteryatnikov
+[AI] Anthropic Fable 5.1 Claude Science Neun-Schleifen-Ergebnis N=4 super Yang-Mills Hexagon-Amplitude weitgehend autonom paar tausend Dollar 25 Sept Physiker Fitzpatrick Mishra-Sharma Kontext Amodei Tempo-Kontrolle
+[AI] OpenAI ruhig kein neuer Fakt Blick auf DevDay Dienstag 29 Sept
+[Termin] Abstimmung Sonntag 27 Sept Neutralitaets- Ernaehrungsinitiative
+[Termin] Starship Flug 14 Orbitalflug Montag 28 Sept FAA-Lizenz ausstehend
+[Termin] Juice dritter Erd-Vorbeiflug Montag 28 Sept
+[Termin] Infomaniak Boersengang SIX 28 Sept
+[Termin] OpenAI DevDay Dienstag 29 Sept
+[Termin] Crew-13 bemannter ISS-Flug 1 Oktober
+[Termin] ChatGPT-Add-in Office fuer alle 1 Oktober
