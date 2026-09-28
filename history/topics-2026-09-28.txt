@@ -1,0 +1,15 @@
+[Schweiz] Abstimmung 27 Sept Resultat Neutralitaetsinitiative 70,2 Prozent Nein alle Staende Basel-Stadt 79,9 Tessin 51,8 SVP Pro Schweiz durchgefallen
+[Schweiz] Ernaehrungsinitiative 27 Sept 72,5 Prozent Nein 27,5 Ja kein Kanton Ja Franziska Herren Selbstversorgung 70 Prozent gescheitert
+[Schweiz] Infomaniak Boersengang INFO Handelsstart verschoben auf um 1 Oktober Perrot Duval Aktie 28-30 Sept Handel ausgesetzt
+[Apple] iOS 27.0.1 diese Woche erwartet kleinere Fehlerkorrekturen iPhone 17 Pro kein Pflichtupdate ruhiger Apple-Tag
+[Tools] ChatGPT-Add-in Word Excel PowerPoint fuer alle ab 1 Oktober auch Gratis-Tarif Ausblick Alternative zu Copilot
+[Raumfahrt] Starship Flug 14 FAA-Lizenz Start und Wiedereintritt Wochenende 26 Sept erteilt erster Orbitalflug heute 28 Sept 14.15 MESZ 75-Min-Fenster 26 Starlink V3 275 km sechs Umkreisungen zehn Stunden Wasserung Pazifik Chile Booster Golf kein Fang Ausweichtage bis Oktober
+[Raumfahrt] Juice ESA dritter Erd-Vorbeiflug 28 Sept 8640 km 13.45 MESZ Indischer Ozean plus 3,5 km/s 20 Grad Ablenkung Erdschatten Batterie Jupiter 2031
+[Raumfahrt] TWIS NASASpaceflight neustes Video ispace und Argo Space gemeinsame Mond-Satelliten-Lieferung
+[AI] Anthropic Entwickler-Bereich Portal Claude-Plugins Einreichung Pruefung Sicherheitsscan MCP 2.0 ergaenzt Claude Marketplace live 23 Sept ueber 2000 Connectors und Plugins fertige Agenten
+[AI] Anthropic Claude Sonnet 5.5 Berichten zufolge diese Woche unbestaetigt zweite staerkere Vorabversion an Partner nach Opus 5.5
+[AI] OpenAI DevDay 29 Sept San Francisco Altman Eroeffnung erwarteter always-on Assistent O eigene Kennung unbestaetigt
+[Termin] OpenAI DevDay Dienstag 29 Sept
+[Termin] Infomaniak Handelsstart SIX um 1 Oktober
+[Termin] Crew-13 bemannter ISS-Flug Donnerstag 1 Oktober Dragon-Leck behoben
+[Termin] Starship Flug 14 Orbitalflug heute 28 Sept Ausweichtage bis Oktober
