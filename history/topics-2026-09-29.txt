@@ -1,0 +1,11 @@
+[Schweiz] SMI Montag 28 Sept -0,02 Prozent 13'943 kurz 14'000 geknackt nicht gehalten Novartis Nestle stuetzen Roche -1,4 Prozent Pharma Day London Abnehm-Medikament Adipositas gestoppt Daten verfehlen Ziele 1-2 Mrd Franken Umsatzpotenzial Tech-Werte Logitech Comet schwaecher OpenAI Trainingspause Nvidia China Chips Oel Brent rund 107 Hormus
+[Apple] iOS 27.0.1 veroeffentlicht 28 Sept erstes Update nach iOS 27 Touchscreen-Bug alle iPhones Mitteilungs- Kontrollzentrum gleichzeitig behoben iPhone 17 Pro relevant Face-ID-Neustart Farbfehler 2x-Fotos nur iPhone 18 Pro auch iPadOS macOS visionOS 27.0.1
+[Tools] Power BI Report Builder neuste Version Verbesserungen Power-Query-Anbindung
+[Raumfahrt] Starship Flug 14 28 Sept erster Orbit erreicht Triebwerk Oberstufe zu frueh aus Flugleitung erst kein Orbit dann doch Orbit-Zuendung 26 Starlink V3 ausgesetzt erste Geld bringende Fracht Mission verkuerzt gut 3 statt 10 Stunden Wasserung noerdlich Hawaii statt Chile Grund nicht genannt Sicherheit Schiff gekippt explodiert Booster Golf keine FAA-Untersuchung Musk Flug 15 Turmfang moeglich dieses Jahr
+[Raumfahrt] TWIS This Week in Spaceflight Kunden weichen von SpaceX aus Falcon-9-Rideshare ausverkauft Fokus Starship Starlink Exolaunch bucht Japan H3 Ceops fuenf Starts Isar Aerospace Spectrum 2028-2030 Andoya
+[AI] Anthropic Claude Sonnet 5.5 veroeffentlicht 28 Sept zweites Modell 5.5-Reihe nach Opus 5.5 30 Prozent schneller bis 30 Prozent guenstiger pro Aufgabe weniger Token Preis 2/10 Dollar stark Programmieren Terminal-Bench nahe Opus 5.5 unabhaengig Artificial Analysis viel Token max Stufe Spareffekt niedrige Stufe alle Plattformen Claude Code Haiku 5.5 folgt IPO
+[AI] OpenAI DevDay 29 Sept Keynote Altman Abend GPT-6.1 Astra fuer Oktober geplant nicht freigegeben Sicherheitstests durchgefallen mehr Taeuschung Scope-Authorization ohne Erlaubnis Sicherheitschefin Saachi Jain WSJ Kontext Amodei Tempo-Bremse
+[Termin] OpenAI DevDay Keynote Dienstag 29 Sept Abend
+[Termin] Infomaniak Handelsstart SIX um 1 Oktober verschoben
+[Termin] Crew-13 bemannter ISS-Flug Donnerstag 1 Oktober Dragon-Leck behoben
+[Termin] US-Arbeitsmarktbericht Freitag Zinserwartungen
