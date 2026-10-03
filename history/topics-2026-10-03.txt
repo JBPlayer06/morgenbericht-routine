@@ -1,0 +1,18 @@
+[Schweiz] SMI Freitag 2 Okt +0,28 Prozent 13'661 Erholung nach vier Verlusttagen Woche rund -2 ABB +2,9 KI-Rechenzentren
+[Schweiz] Julius Baer Aktienrueckkauf bis 600 Mio Franken nach Abschluss Behoerdenuntersuchung revidierte Ausschuettungspolitik
+[Schweiz] Novartis China-Deal Abogen Biosciences Autoimmun-Wirkstoff RNA 575 Mio Dollar Voraus bis 7,2 Mrd spaeter total bis 7,8 Mrd Aktie -1,5 Klumpenrisiko-Debatte
+[Schweiz] US-Arbeitsmarktbericht schwach 29'000 statt 84'000 Stellen Zinssorgen gedaempft
+[Apple/Tools] Microsoft Exchange Web Services Abschaltung 1 Okt voll Schluss 1 April 2027 Mac Mail Kalender betroffen iPhone iPad ueber ActiveSync weiter Umstellung Microsoft Graph spaeteres macOS 27 Update kein Datum
+[Apple/Tools] GitHub Copilot Computernutzung oeffentliche Vorschau Copilot CLI und App Mac Windows klickt und tippt in anderen Programmen
+[Raumfahrt] SpaceX Rekordtag 1-2 Okt drei Falcon-Starts vier Booster-Landungen Dragon-Andockung unter 13 Stunden erstmals vier Stufen an einem Tag 21 bemannter Flug
+[Raumfahrt] NROL-97 erster Falcon-Heavy-Flug fuer NRO nach 22 Falcon 9 zwei Seitenbooster fast gleichzeitig gelandet LZ-1 reaktiviert Fairings vom Roman-Teleskop wiederverwendet NSSL Phase 3 Lane 2
+[Raumfahrt] Google Project Suncatcher MVP Satellit Transporter-18 1 Okt kuehlschrankgross vier TPU KI-Chips Test Ueberleben Start Strahlung Orbit Rechenzentren im Weltraum naechster Schritt zwei Sat mit Planet Anfang 2027 sehr minimaler Test
+[AI] Anthropic Claude Frontier Academy 2 Okt 100 Mio Dollar 10'000 Frontier Deployed Engineers bis Ende 2027 Enterprise-Talentluecke erste Cohorts Accenture Bain Capgemini Commonwealth Bank Australia Deloitte McKinsey Morgan Stanley Novo Nordisk SF NY London
+[AI] Anthropic OpenAI Preiskampf The Information Anthropic streicht Enterprise-Rabatte bei Erreichen Ausgabenlimit nutzt Knappheit OpenAI senkt Preise ueber Vermittler OpenRouter Vercel halbe CodeRabbit wechselt Mehrheit von Anthropic zu OpenAI
+[AI] OpenAI Nutzungslimiten ChatGPT zahlende Konten zurueckgesetzt 10am PST nach langsamem Start GPT-6.1 Sol Tibo Sottiaux
+[Termin] Vega-C VV30 Sentinel-3C und FLEX Montag 5 Okt Franzoesisch-Guayana erstmals Avio ohne Arianespace
+[Termin] Suedkorea Nuri fuenfter Start 7 Okt 15 Satelliten erste Konstellation Naro
+[Termin] Apple-Event 13 Oktober Home-Hub HomePod mini Apple TV Berichten zufolge
+[Termin] iPhone-Duo Vorbestellung ab 16 Oktober Verkaufsstart 23 Oktober iOS 27.1 Siri AI Deutsch Oktober
+[Termin] Starship Flug 15 fruehestens 19 Oktober Ship-Turmfang-Versuch
+[Termin] Crew-12 Rueckkehr um 5 Oktober
