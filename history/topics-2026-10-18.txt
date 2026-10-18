@@ -1,0 +1,18 @@
+[Schweiz] NZZaS Braindrain ETH EPFL beste KI-Talente von Big Tech abgeworben Google Microsoft Meta Apple OpenAI Anthropic Loehne Einstieg Google Zuerich ca 190000 Fr 7 von 12 AI-Center-Doktoranden bei US-Konzernen modernes Soeldnerwesen digitale Souveraenitaet Apertus
+[Schweiz] ETH Swiss GeoLab Root bei Luzern eroeffnet 16 Okt Kompetenzzentrum Erdbeobachtung Satelliten Drohnen Sensordaten KI 100 Petabyte NASA-Daten CSCS Lugano
+[Apple] iPhone Duo praktisch ausverkauft Lieferung Ende Januar Nachfrage aussergewoehnlich Stores angewiesen Laufkundschaft ohne Vorbestellung abzuraten 23 Okt eBay Wiederverkauf bis 5000 Dollar iPhone 17 Pro nicht betroffen
+[Apple] iOS 27.2 Beta diese Woche Schalter fuer Nachrichten-Vorschlaege Suggestions zwei Home-App-Funktionen smarte Tuerschloesser Lock After Closing Door Left Open Hinweis
+[Tools] Power BI Oktober-2026-Update Report Authoring Skill benutzerdefinierte Visuals per natuerlicher Sprache GA Gantt-Diagramm Vorschau List-Slicer Dropdown
+[Raumfahrt] Artemis II Orion Hitzeschild Auswertung abgeschlossen hielt bemannten Mondrueckflug Taucherbilder 10 April nur 9 Stellen Materialabtrag vs 103 Artemis I Faktor zehn weniger kuerzere Rueckkehrbahn bestaetigt fuer Weg zu Artemis III
+[Raumfahrt] Blue Origin Florida grosser Ausbau 16 Okt zwei zusaetzliche New-Glenn-Startrampen neben zwei im Bau Fabrik bis 150 Oberstufen groessere Variante zwei weitere Landeschiffe Ziel ueber 100 Starts pro Jahr bis Ende Jahrzehnt rund 3 Mrd Dollar 5000 Mitarbeitende SpaceX zieht sich aus kommerziellem Falcon-Markt zurueck Luecke ab 2028
+[AI] Anthropic Claude Code Review allgemein verfuegbar Team Enterprise automatische Pruefung neuer Pull Requests Engpass Code-Review
+[AI] Anthropic Finanzierung vor IPO Berichten zufolge Blackstone ueber 10 Prozent Rendite 9 Mrd Dollar Schulden abgesichert fuenfjaehrige Chip-Leasing-Zahlungen
+[AI] Anthropic internes Claude-Modell Herkunft NIST Elliptische-Kurven-Startwerte zurueckgefuehrt auf alten Zufallszahlengenerator lrand48 Unix-Zeitstempel kein Verschluesselungsbruch
+[AI] OpenAI GPT-6 Astra Pro ChatGPT Update mehrere Agenten bearbeiten Teilaufgaben parallel zuschauen bessere Tool- und Plugin-Nutzung schneller
+[AI] OpenAI GPT-Live Prompt-to-Voice eigene Stimme aus Textbeschreibung gratis GA API neun neue Stimmen inkl Deutsch ChatGPT Slides editierbare Folien aus Gespraech Dateien Export PowerPoint PDF Google Slides
+[Termin] JAXA MMX Start Montag 19 Oktober 21.41 MESZ Marsmond Phobos Probenrueckkehr Rover Idefix
+[Termin] Nestle Roche Q3-Neunmonatszahlen Donnerstag 22 Oktober Novartis 27 Oktober Berichtssaison
+[Termin] Hera BRM-2 22 Oktober Ankunft Didymos November
+[Termin] iPhone Duo Verkaufsstart Freitag 23 Oktober Artemis Zeitplan-Briefing KSC 23 Oktober
+[Termin] Mistral Large 4 Gewichte 27 Oktober Apple-Event 28 Oktober Los Angeles MacBook Pro iPad mini M6
+[Termin] HomePod mini 2 ab 30 Oktober HomeView Apple TV 4K ab 13 November Starship Flug 15 fruehestens 8 November Anthropic IPO moeglich November Usage Policy 12 November
