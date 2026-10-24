@@ -1,0 +1,17 @@
+[Schweiz] SMI Freitag 23 Okt -0,59 Prozent 14'462 Gewinnmitnahmen nach drei starken Wochen Wochenplus 0,5 drittes in Folge Richemont -6,4 Swatch -5,0 Luxus-Branchenschwaeche Konkurrenten enttaeuscht Holcim +5,0 Tagessieger Q3 hoeheres Gewinnziel Sika -2,3 China-Schwaeche Brent ueber 116 Iran Huang Kapitalknappheit KI
+[Schweiz] Enact Intelligence Zuerich Pre-Seed 30 Mio Dollar aus Stealth 22 Okt haptische Roboter Kraft und Beruehrung ueber Aktuatoren Montage Investoren Redalpine Notion firstminute Yann LeCun Arthur Mensch Mistral gegruendet Maerz 2026 Galliker
+[Apple] iOS 27.2 final um 26 Okt neue Details Podcasts Warteschlange geteilt New Episodes und Continue Playing TV-App Profile auf iPhone erstmals Dual Capture jetzt Gruppen-FaceTime iPhone 17 Pro Feinschliff
+[Apple] Apple-Event Pro and Tell 28 Okt Los Angeles Vorschau MacBook Pro OLED-Touchscreen iPad mini iMac M6
+[Tools] ruhig keine neuen Power-BI- oder Office-Funktionen letzte 36h
+[Raumfahrt] NASA Artemis-Briefing 23 Okt genauer Ablauf Artemis III Erdumlaufbahn-Testflug 2027 drei Schwerlastraketen nacheinander New Glenn Blue Moon zuerst dann SLS Orion vier Astronauten Rubio Parmitano zuletzt Starship Orion dockt in hoher Erdumlaufbahn Starship schiebt Orion Richtung Mond Crew nicht ins Starship Betankungsstreit Sicherheitsgremium rund 22 Tankfluege vs Musk 6-8 Isaacman bestmoeglicher Endzustand Cabin 1 Crew-Kabine Starship-Lander erstmals gezeigt Texas Sommer 2027 90 Tage zurueck Flug 15 November Booster und Oberstufe fangen
+[Raumfahrt] ESA Space Rider Falltest misslungen 6 Okt Sardinien aus Helikopter 3 km Parafoil loeste sich beim Entfalten Drogue ok Modell abgestuerzt verloren Briefing 22 Okt Naja Ursache offen Untersuchung Erstflug weiter erste Haelfte 2028 Vega C
+[Raumfahrt] ESA Ariane 6 Triebwerksprobleme geloest SpaceNews 23 Okt (nicht im Bericht Reserve)
+[AI] OpenAI Frontier-Training ohne echtes Internet Offline-Welt zwischengespeicherte Webinhalte Ausloeser Vorfall 20 Sept DNS-Fehlkonfiguration Modell kurz ins Netz Training gestoppt gehaertet High-Compute Red-Teaming Schwachstellen offengelegt Kata Containers CVE RL-Training wieder ab 1 Okt GPT-6 Astra Cyber
+[AI] Anthropic Partner Theorem Claude formale Verifikation bestehender Code rund 180 Mio Zeilen Beweis-Code 123 Open-Source-Bibliotheken wenige Wochen hunderte Bugs gefunden PDF-Programm eine Woche so viele wie sonst ein Jahr Opus 5.5 halbe Beweise 40 Prozent weniger Token enge Bedingungen
+[AI] Anthropic Claude auf Google Cloud Anthropic-managed Deployment GA 23 Okt Cowork chat Enterprise unified GA (nicht im Bericht Reserve)
+[Termin] 26 Okt iOS 27.2 final fuer alle
+[Termin] Mo 27 Okt Novartis Q3 Mistral Large 4 offene Gewichte
+[Termin] Mi 28 Okt Apple-Event Pro and Tell Los Angeles MacBook Pro OLED-Touchscreen iPad mini iMac M6
+[Termin] Fr 30 Okt HomePod mini 2 Verkauf
+[Termin] 8 Nov Starship Flug 15 Anthropic IPO moeglich November Usage Policy 12 Nov OpenAI Usage Policy 20 Nov
+[Termin] Hera Ankunft Didymos November BepiColombo Merkur Dezember
