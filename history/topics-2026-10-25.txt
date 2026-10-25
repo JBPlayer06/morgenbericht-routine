@@ -1,0 +1,14 @@
+[Schweiz] KI-Blasen-Angst treibt Anleger in Schweizer Aktien SMI Oktober +4,6 Prozent Euro Stoxx 50 -3,2 groesster Abstand Eurozone seit Maerz 2020 Roche +12 Nestle +10 Novartis +6,7 drei Schwergewichte knapp halber Index Gruende steigende Kreditkosten KI-Boom-Zweifel Unruhe Frankreich Spanien defensive Bilanzen EFG Burkhardt Gesundheit finanzierte KI-Boom kehrt sich um
+[Apple] ruhiges Wochenende iOS 27.2 final wohl Montag 26 Okt fuer alle iPhone 17 Pro Dual Capture Gruppen-FaceTime zwei Tuerschloss-Automationen neues Musik-Symbol Siri AI Deutsch weiter nicht dabei Event Pro and Tell Mittwoch 28 Okt Los Angeles MacBook Pro Touchscreen OLED iPad mini OLED iMac 14-Zoll M6
+[Tools] Power-BI-Team diese Woche offiziell nichts Community-Werkzeug DAX Lib MCP Server Marco Russo KI-Assistent installiert DAX-Funktionspakete direkt in offenes Power-BI-Desktop-Modell
+[Raumfahrt] SpaceX Super-Heavy-Booster 22 ueber Nacht zu Startanlage 2 gerollt auf Starttisch gehoben Statik-Feuertest heute Sonntag 25 Okt ab ca 6 Uhr Ortszeit Ausweichtag Montag 33 Raptor-Triebwerke letzter grosser Bodentest vor Flug Starship Flug 15 fruehestens 8 November erstmals Booster und Oberstufe am Turm auffangen sonst ruhiges Wochenende
+[Raumfahrt] ESA Hera naechste Tage Anflug Asteroidensystem Didymos Ankunft November DART-Einschlag 2022 vermessen (Ausblick)
+[AI] Anthropic Sandbox hinter Claude Code als offenes npm-Paket sandbox-runtime Apache 2.0 freigegeben schottet Datei- und Netzwerkzugriffe auf OS-Ebene ab ohne Container Zugangsdaten-Maskierung alpha Windows Hintergrund juengste Vorfaelle Agenten auf echte Webseiten Systeme sicherere Agenten
+[AI] Salesforce fuehrt Claude als eigenen gedeckelten Posten in KI-Suite erster separater KI-Posten im CRM Claudeforce Aktie +3,5 Prozent Zeichen fuer Wert von Claude
+[AI] OpenAI Uber rollt Firmen-Agent ChatGPT Work nach 1000er-Pilot an alle rund 30'000 Mitarbeitenden aus 80 Prozent frueher Nutzer keine Entwickler Daten analysiert Dashboards gebaut Enterprise-Wettbewerb gegen Anthropic
+[AI] OpenAI texanischer Generalstaatsanwalt Paxton verklagt OpenAI und Sam Altman Freitag 23 Okt Collin County ChatGPT als sicher fuer Jugendliche vermarktet ohne genug Schutz Suizid-Bezug Sperre fuer Kinder in Texas gefordert separat von Acht-Staaten-Klage
+[Termin] Mo 27 Okt Novartis Q3 Mistral Large 4 offene Gewichte iOS 27.2 final
+[Termin] Mi 28 Okt Apple-Event Pro and Tell Los Angeles MacBook Pro OLED-Touchscreen iPad mini iMac M6
+[Termin] Fr 30 Okt HomePod mini 2 Verkauf
+[Termin] 8 Nov Starship Flug 15 Anthropic IPO moeglich November Usage Policy 12 Nov OpenAI Usage Policy 20 Nov
+[Termin] Hera Ankunft Didymos November BepiColombo Merkur Dezember
