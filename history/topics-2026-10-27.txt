@@ -1,0 +1,17 @@
+[Schweiz] SMI Montag 26 Okt +0,53 Prozent 14'538,95 zurueck ueber 14'500 Allzeithoch knapp 14'670 in Reichweite Roche +1,4 positive Wochenend-Studiendaten Divarasib Lungenkrebs Novartis -0,4 Remibrutinib MS gemischt Techwerte Erholung ABB +2,8 Spitze VAT Comet Inficon AMS Osram bis 3,5 Sika -2,2
+[Schweiz] Quartalszahlen-Woche fuenf SMI-Konzerne Novartis heute 27 Okt Logitech nachboerslich Sandoz Amrize UBS folgen
+[Schweiz] WAK-N Wirtschaftskommission Nationalrat startet 26 Okt Beratung UBS-Eigenkapitalregel Bankengesetz Standortfrage
+[Apple] iOS 27.2 final freigegeben 26 Okt fuer alle iPhone 17 Pro Siri AI Gedaechtnis frueherer Gespraeche Zugriff Voicemails Fotos aus Nachrichten Kalendereintraege neue Ausschlussliste Excluded Apps granulare Textauswahl Messages Vorschlaege Apple-TV-Profile neues Apple-Music-Symbol fuenf neue Siri-Sprachen Franzoesisch Japanisch Koreanisch Portugiesisch Spanisch Deutsch weiter nicht dabei auch watchOS 27.2 macOS 27.2 Apple Pencil iPhone Duo
+[Apple] iPad mini neu vorgestellt 26 Okt vor Event erstmals OLED 8,5 Zoll A20 Pro Chip aus iPhone 18 Pro IP67 Acoustic Display N1 Wi-Fi 7 C2 Modem ab 699 Dollar 749 Euro plus 100 Dollar zweite Preiserhoehung Jahr Vorbestellung 28 Okt Verkauf 6 Nov Farben Midnight Starlight
+[Apple] Apple-Event Pro and Tell Mittwoch 28 Okt Los Angeles erstes MacBook Pro OLED Touchscreen leichter Dynamic Island verstaerktes Scharnier nach iPhone-Duo-Knickproblemen gleiche M5-Pro-Max-Chips M6 iMac Macs ab 6 Nov
+[Raumfahrt] ISS Weltraumausstiege US-EVA 100 Donnerstag 29 Okt und US-EVA 101 Mittwoch 5 Nov Anil Menon NASA Joshua Kutryk CSA letzte zwei von acht iROSA-Rollsolarmodulen Strom-Upgrade seit 2021 abgeschlossen Leistung plus 30 Prozent 160 auf 215 Kilowatt Reserve auch fuer kontrollierten Deorbit um 2030 Kutryk erster Ausseneinsatz Crew-13
+[AI] Anthropic S-1 bei SEC eingereicht 26 Okt Boersengang Nasdaq Global Select Market Kuerzel ANT Preis und Aktienzahl noch offen erstes grosses KI-Labor an Boerse vor OpenAI Geldbedarf Rechenleistung Underwriter Goldman Sachs Morgan Stanley H1 2026 Umsatz 16,3 Mrd Dollar Verlust 80,7 Mrd grossteils Buchhaltungseffekte Schuldscheine nicht Betrieb vertraulich Juni eingereicht Run-Rate ueber 47 Mrd
+[AI] OpenAI GPT-6.1 Terra 26 Okt Modell alltaegliche Computerarbeit liest Bildschirm klickt durch Programme Rechnungen erfassen Formulare ausfuellen Videos schneiden API rund halb so teuer wie 5.6 Terra und 6.1 Sol 1 Dollar Input 5 Dollar Output ChatGPT Work Codex API Nachfolger nach abgesagtem GPT-6.1 Astra Sicherheits-Haken knapp ein Drittel Testlaeufe ueber erlaubte Grenzen 13,75 Prozent unerlaubte Aktionen nach Nachrichten anderer Agenten Critical Cybersecurity
+[Termin] Di 27 Okt Novartis Q3 Logitech nachboerslich
+[Termin] Mi 28 Okt Apple-Event Pro and Tell Los Angeles MacBook Pro OLED Touchscreen iPad-mini-Vorbestellung
+[Termin] Do 29 Okt ISS-Weltraumausstieg US-EVA 100 Menon Kutryk
+[Termin] Fr 30 Okt HomePod mini 2 Verkauf ISRO GSLV NavIC NVS-03
+[Termin] 5 Nov ISS-Weltraumausstieg US-EVA 101 letztes iROSA
+[Termin] 6 Nov iPad mini und neue Macs Verkauf
+[Termin] 8 Nov Starship Flug 15 beide Stufen fangen Anthropic IPO moeglich November Usage Policy 12 Nov OpenAI Usage Policy 20 Nov
+[Termin] Hera Ankunft Didymos November BepiColombo Merkur Dezember Swift-Observatorium Wiedereintritt November
