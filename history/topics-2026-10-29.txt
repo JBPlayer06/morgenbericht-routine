@@ -1,0 +1,22 @@
+[Schweiz] UBS Q3 Reingewinn 2,69 Mrd Dollar +8% Vorsteuergewinn 3,59 Mrd +27% underlying 4,08 Mrd Konsens 2,71 Mrd Vermoegenszufluesse Aktienrueckkaeufe beschleunigt CS-Integration Jahresende Kapitalvorschriften-Streit Aktie -1,18%
+[Schweiz] SMI Mittwoch 28 Okt -0,11% 14'581,10 vor Fed-Sitzung Logitech -9,8% verhaltener Q3-Ausblick Sandoz -2,0% Umsatz verfehlt Jahresziel unteres Ende Jungfraubahn +8,6% Berenberg Kaufempfehlung Ziel 310 Sulzer Allzeithoch 181,80
+[Apple] MacBook Pro erster Touchscreen-Mac PROLED XDR Tandem-OLED 2000 nits 120Hz Dynamic Island statt Notch leuchtendes Logo zurueck Touchsensor im Panel neues Scharnier duenner leichter 14 Zoll 3 Pfund M5 Pro M5 Max nicht M6 ab 2899 Dollar 14 Zoll 3399 16 Zoll M5 Max 4499/4799 Vorbestellung 28 Okt Verkauf 6 Nov Touch ID kein Face ID kein Mobilfunk App-Dev iOS iPadOS direkt testen
+[Tools] Excel Oktober-Update Copilot Get and Transform Data per Power Query holt bereinigt Abfrage plus Tabellen benennen bei Erstellung
+[Raumfahrt] ULA Vulcan Rueckkehr Mitte November erster Flug seit Duesenversagen Feststoffbooster-Nozzle 40 Amazon Leo Kuiper Satelliten
+[Raumfahrt] ESA Hera erstes Bild Didymos Dimorphos getrennt aufgeloest 18 Okt 1280 km Asteroid Framing Camera nach Bremsmanoevern 20 m/s Dimorphos 1 Pixel Ankunft Anfang November 4 Nov erste Detailbilder Dimorphos 25 Nov DART 2022 Planetenschutz
+[Raumfahrt] Artemis III SLS-Kernstufe 28 Okt im VAB mit Boostern verbunden naechster Betankungstest Pad 39B TWIS-Pick NASA 14-Tage-Erdorbit-Plan naechster Sommer SLS-Booster-Teile Artemis 6 H2 2028 obwohl SLS nach Artemis 5 auslaufen sollte
+[Raumfahrt] TWIS neustes Video 27-28 Okt Artemis-Update Booster 22 Static Fire Dragonfly Flugsim Space-Coast-Flyover Blue Origin New Glenn Facilities Swift-Observatorium Missionsende
+[AI] Anthropic einzelne Plugins-Seite Skills Connectors Plugins zusammen Rollout 29 Okt Free Pro Max Team GA 9 Nov Enterprise 30 Nov bestehende Installationen uebernommen
+[AI] Anthropic Enterprise Smart Reports Umfragen geteilte Budgets GA 28 Okt zeigen Teamleistung und Token-Kosten Investorenzahl 900% Net Revenue Retention operativer Gewinn Q2 vor Boersengang
+[AI] Anthropic AI for Science Ausweitung 20 Stiftungen Institutionen 28 Okt gratis Claude-Credits (nicht im Bericht Reserve)
+[AI] OpenAI Dot-Agent per iMessage RCS anschreiben 28 Okt Vorschau US Pro proaktive Updates Linq Partner Schweiz EU ausgeschlossen
+[AI] OpenAI ServiceNow Partnerschaft Ausbau 28 Okt Modelle Agenten Workflows ChatGPT Work Codex (nicht im Bericht Reserve)
+[Termin] Do 29 Okt ISS EVA-100 siebtes iROSA-Modul Menon Kutryk
+[Termin] Fr 30 Okt HomePod mini 2 Verkauf ISRO GSLV NavIC NVS-03
+[Termin] 3 Nov Rocket Lab Electron iQPS CAS Space Kinetica 2
+[Termin] 4 Nov Hera Ankunft Didymos erste Dimorphos-Bilder 25 Nov
+[Termin] 5 Nov ISS EVA-101 achtes letztes iROSA
+[Termin] 6 Nov neue Macs iMac MacBook Pro M6 Touchscreen-MacBook-Pro iPad mini Verkauf
+[Termin] 8 Nov Starship Flug 15 beide Stufen fangen
+[Termin] 9 Nov Anthropic Plugins GA 12 Nov Anthropic Usage Policy 13 Nov ULA Vulcan RTF 20 Nov OpenAI Usage Policy
+[Termin] BepiColombo Merkur Dezember
