@@ -1,0 +1,24 @@
+[Schweiz] SMI Donnerstag 29 Okt neues Allzeithoch +1,21 Prozent 14'756,86 Schluss Intraday-Rekord 14'861,53 alter Rekord 14'670 August ueberholt Fed und EZB Zinsen unveraendert US-BIP Q3 staerker Novartis +2,4 Rekord JPMorgan Kursziel 145 Amrize -5,4 schwache Zahlen Jahresprognose gesenkt Sandoz Erholung
+[Schweiz] Giotto Lausanne zwei Reasoning-Modelle Solo und Alto 27 Okt Betrieb Schweizer europaeische Hardware On-Premises digitale Souveraenitaet Giotto geht in Konsumentenmarkt nach RUAG SAP Groupe Mutuel Apertus ueber 6 Mio Downloads ueberholt Mistral
+[Schweiz] Lagarde tritt vorzeitig als EZB-Praesidentin ab Februar 2027 (Reserve nicht im Bericht)
+[Apple] Touchscreen-MacBook-Pro Details 29 Okt Touch in Bedienungshilfen abschaltbar kein Apple Pencil Apple erst am Anfang macOS-Touch mehr mit macOS 28 naechstes Jahr lit Logo bestaetigt App-Dev Touch-Gesten direkt testen
+[Apple] HomePod mini 2 Verkaufsstart heute 30 Okt S10-Chip computational audio Klang laufend an Musik angepasst drei statt vier Mikrofone Siri AI nur Englisch nicht EU nicht Schweiz
+[Tools] Microsoft Copilot for finance 29 Okt ueber 25 neue Finanz-Faehigkeiten Excel und Cowork Finance Skills Excel GA Fabric IQ GA in Cowork Power-BI-Berichte Datenmodelle in Auswertung Capital Markets Plugins
+[Tools] Office in Copilot weltweit GA Mitte November Word Excel PowerPoint in Copilot-App (Reserve Rollout-Update)
+[Raumfahrt] ISS US-EVA-100 29 Okt Anil Menon NASA Joshua Kutryk CSA siebtes von acht iROSA-Roll-Solarmodulen angebracht ausgerollt Stromupgrade fast fertig letztes Modul 5 Nov Leistung +30 Prozent Station bis 2030 Kutryk erster Ausseneinsatz
+[Raumfahrt] SpaceX Starfall Kapsel AFRL US-Luftwaffe Punkt-zu-Punkt-Fracht P2D Bandwagon-5 20 Okt Frachtpods geborgen Pazifik 26 Okt bestaetigt militaerische Fracht per Rakete irgendwohin Erde
+[Raumfahrt] ISRO GSLV Mk II F-18 Start heute 30 Okt NVS-03 dritter Satellit neue NavIC-Generation Indiens Navigationssystem Gegenstueck GPS
+[AI] OpenAI Model Spec Update 29 Okt neu um fuenf Grundwerte faithfulness harm minimization honesty human agency care Stilvorgaben grossteils gestrichen GPT statt assistant
+[AI] OpenAI Pro und Business Premium doppelte Work- und Codex-Nutzung 29 Okt Pro-200-Kuerzung vom 29 Sept zurueckgenommen
+[AI] Google Gemini 4 Carbon 28 Okt staerkstes Modell AA Index v5.0 59 vor Claude Opus 5.5 und GPT-6 Astra Coding Cybersicherheit SEC-bench Pro 88,2 nur ausgewaehlte Sicherheitsfirmen Fairwind 2 Dollar Input 10 Dollar Output baut auf Argon
+[AI] Google Gemini-App Datei-Erzeugung und -Bearbeitung 29 Okt Dokumente PDF Tabellen Praesentationen Code direkt im Chat erzeugen ansehen bearbeiten alle Nutzer aehnlich Claude Artefakte
+[AI] Anthropic gestern nichts Neues ueber Bekanntes hinaus Damodaran-Bewertung 1,475 Bio Kommentar (Reserve)
+[AI] Anthropic Claude Tools fuer Anwaelte citation checking Regulierungen vergleichen 28 Okt (Reserve nicht im Bericht)
+[Termin] Fr 30 Okt HomePod mini 2 Verkauf ISRO GSLV NavIC NVS-03
+[Termin] 3 Nov Rocket Lab Electron
+[Termin] 4 Nov Hera Ankunft Didymos erste Dimorphos-Bilder 25 Nov
+[Termin] 5 Nov ISS US-EVA-101 achtes letztes iROSA Stromupgrade abgeschlossen
+[Termin] 6 Nov neue Macs Touchscreen-MacBook-Pro M6-MacBook-Pro iMac iPad mini Verkauf
+[Termin] 8 Nov Starship Flug 15 beide Stufen Turmfang
+[Termin] 9 Nov Anthropic Plugins GA 13 Nov Anthropic Usage Policy 20 Nov ULA Vulcan RTF OpenAI Usage Policy
+[Termin] BepiColombo Merkur Dezember Blue Origin New Glenn Blue Ring Dezember
