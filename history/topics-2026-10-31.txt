@@ -1,0 +1,26 @@
+[Schweiz] SMI Freitag 30 Okt +0,36 Prozent 14'810,66 zweites Rekordhoch in Folge Wochenplus 2,4 viertes in Folge Oktober +7 defensive Nestle Givaudan Swiss Re Novartis tragen tech-nahe Werte runter nach schwachen US-Zahlen Intel nachboerslich ueber -20 Amazon AWS hohe KI-Capex Logitech -4,2 Weihnachtsausblick ABB Comet AMS Osram Anleger raus aus Chip- und KI-Werten
+[Schweiz] Landis+Gyr +10,1 Prozent Semesterzahlen bessere Marge trotz sinkendem Umsatz Jahresausblick angehoben
+[Apple] iPhone Duo Innendisplay-Risse Apple interne Store-Anweisung diese Woche Pruefen und Tauschen deutet auf mehr als Einzelfaelle kein Rueckruf kein oeffentliches Reparaturprogramm iFixit Scharnier iPhone 17 Pro nicht betroffen Samsung Spott-Werbung
+[Apple] iOS 27.3 erste Beta naechste Woche bringt Apple Intelligence nach China im Dezember Schreibwerkzeuge Genmoji Clean Up ohne Siri AI iPhone 15 Pro und neuer Release Dezember
+[Apple] Touchscreen-MacBook-Pro 15 weitere Details Touch in Bedienungshilfen abschaltbar Live Activities Dynamic Island Swipe Dock Spotlight 10 Finger App-Dev iOS iPadOS Gesten direkt testen M5 nicht M6 Verkauf 6 Nov
+[Tools] Office in Copilot weltweit GA Mitte November Word Excel PowerPoint direkt in Copilot-App (MC1530611)
+[Tools] Microsoft Copilot Oktober-Roundup Autopilot Dauer-Cloud-Agent Vorschau PowerPoint nutzt Anthropic Sonnet 5.5 Projects Skills (Reserve nicht im Bericht)
+[Raumfahrt] SpaceX Starship Flug 15 alle Triebwerkstests abgeschlossen drei statische Feuertests in drei Tagen Ship 42 Oberstufe und Booster 22 inkl Kryo- und Fangtests innert acht Tagen NET 8 Nov erstmals beide Stufen am Turm fangen Booster und Oberstufe Schritt zur schnellen Wiederverwendung
+[Raumfahrt] SpaceX Falcon 9 Wind-down Halloween-eve Starlink 15-18 elfter und letzter Oktober-Start Startrate erstmals seit Juli 2025 unter 150 pro 365 Tage Hoechstwert 171 Dez 2025 will Falcon in einigen Jahren kommerziell nicht mehr anbieten Fokus Starship Sorge Startluecke bis Blue Origin skaliert
+[Raumfahrt] ISRO GSLV Mk II NVS-03 erfolgreich gestartet 30 Okt dritter Satellit neue NavIC-Generation Indiens Navigationssystem (Bestaetigung Start)
+[Raumfahrt] TWIS newest video 27 Okt Double Catch Booster 22 bereits Berichte 28-29 Okt verwendet heute nichts Neues (geprueft kein TWIS-Punkt)
+[AI] Anthropic Max-Abos umbenannt Max 5x jetzt Max Max 20x neu Ultra Preise 100 und 200 Dollar gleich 30 Okt
+[AI] Anthropic Claude-App Updates 29 Okt iPhone Sprachmodus ueber CarPlay Side-by-Side iPad iPhone Duo Konto-Wechsel zwei Konten 24 weitere Sprachen 33 total Pull-to-Search kommt
+[AI] Anthropic Claude Code zwei Saetze in Opus 5.5 Prompt steuern weg vom Nachbau eines bestimmten bestehenden Spiels IP Nutzungsregeln eigene und Genre-Spiele gehen weiter 27 Okt pushed 30 Okt bestaetigt
+[AI] Anthropic Self-Assessment Sicherheitssystem Claude bewertet eigene Gespraeche flaggt potenziell schaedliche seit Juni jedes Modell ab Fable 5 78 Prozent 94 Prozent high-priority 1 Prozent false positive (Reserve)
+[AI] OpenAI Community Safety Report erster Anfang 2027 ueber 200 Law-Enforcement-Referrals Q3 ChatGPT beendet Gewalt-fixierte Chats automatisch strengere Waffeninfos fuer Jugendliche staerkere Altersvorhersage 30 Okt
+[AI] OpenAI robots.txt gemeinsames Signal honorieren Webseiten teilen mehreren KI-Anbietern auf einmal Training-Praeferenz mit IETF AI Preferences Umsetzung kommende Monate 30 Okt
+[AI] OpenAI Konto-Wechsel ChatGPT iOS Android bis zwei Konten 30 Okt (Reserve)
+[AI] Google Gemini Drops Oktober Gemini 4 Argon in App und AI Mode Pro Ultra Skills gespeicherte Anweisungen ersetzen Gems Auto-Migration ab 17 Nov macOS Antigravity Windows-App 30 Okt
+[Termin] Di 3 Nov US-Zwischenwahlen Boersen positionieren sich Rocket Lab Electron
+[Termin] 4 Nov Hera Ankunft Didymos erste Dimorphos-Bilder 25 Nov
+[Termin] 5 Nov ISS US-EVA-101 achtes letztes iROSA Stromupgrade abgeschlossen
+[Termin] 6 Nov neue Macs Touchscreen-MacBook-Pro M6-MacBook-Pro iMac OLED-iPad-mini Verkauf
+[Termin] 8 Nov Starship Flug 15 Doppelfang beide Stufen
+[Termin] 9 Nov Anthropic Plugins GA 13 Nov Anthropic Usage Policy 17 Nov Gemini Gems zu Skills 20 Nov ULA Vulcan RTF OpenAI Usage Policy
+[Termin] Mitte Nov Office in Copilot weltweit GA BepiColombo Merkur Dezember Blue Origin New Glenn Dezember
