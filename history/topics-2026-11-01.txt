@@ -1,0 +1,19 @@
+[Schweiz] Freihandelsabkommen Schweiz-China modernisiert unterzeichnet 30 Okt Parmelin Xi Jinping Peking mittelfristig 99,8 Prozent Schweizer Ausfuhren zollfrei 77,5 ab Inkrafttreten heute 53,6 rund 244 Mio Franken Ersparnis pro Jahr Uhren Pharma Maschinen Chemie chinesische Luxussteuer auf Uhren bleibt Vorsprung vor Europa Verhandlungen August 2026 abgeschlossen plus Abkommen Arbeit und Forschung
+[Schweiz] Proton Genf KI schrieb rund 90 Prozent Code im Oktober CEO Andy Yen keine Software-Entwickler mehr einstellen nach 2026 bestehende Mitarbeitende KI-Nutzungs-Gespraeche Rolle gefaehrdet
+[Schweiz] Flappie Freienbach SZ erste Katzenklappe Gesichtserkennung Cat ID on-device 97 von 100 eigenen Katzen ETH-Spinoff 3000 Geraete (nicht im Bericht Reserve)
+[Apple] iPhone 18 Pro Verkaufsstart erste drei Wochen weltweit +3,1 Prozent China +29 USA -4 Japan -27 Counterpoint China stuetzt Absatz iPhone 17 Pro nicht betroffen
+[Apple] iOS 27.3 erste Beta naechste Woche offiziell bestaetigt 30 Okt Apple Intelligence China Testbeginn 4 Nov Alibaba Qwen in Siri Writing Tools Visual Intelligence nur iPhone Release Dezember (neuer Fakt Datum vs frueherer Beta-naechste-Woche-Meldung)
+[Tools] Microsoft Edit with Copilot in Excel auf iPhone Rollout late Okt bis late Nov natuerliche Sprache Tabellen aendern Copilot arbeitet weiter ausserhalb App
+[Raumfahrt] SpaceX laut Ars Technica 29 Okt mindestens zwei Mond-Frachtlander-Herstellern keine Falcon-9-Starts mehr verkauft bestehende NASA US-Space-Force-Vertraege laufen weiter muessen auf New Glenn ausweichen NASA-Sorge Abhaengigkeit Fokus Starlink Starship Tankflug-Streit 22 vs 6-8 Parsons 6-8 naeher
+[Raumfahrt] China bemannte Mondlandung Ablauf detailliert 31 Okt 7th Manned Space Symposium Beijing Wang Xiang zwei Starts lunar orbit rendezvous Lander Lanyue Raumschiff Mengzhou Long March 10 Besatzung steigt im Mondorbit um passt zu bestehender Technik Serienfertigung Tests abgeschlossen
+[Raumfahrt] TWIS-Pick Moonfall-Drohnen NASA JPL vier kleine angetriebene Drohnen Mond-Suedpol schwer erreichbares Gelaende Firefly Traegerfahrzeug 2028 Lieferung preliminary design review bestanden
+[AI] OpenAI ab Dezember ChatGPT und Codex Nutzungskontingente ein gemeinsamer Token-Topf Plus Pro Business Sofort-Chat zaehlt nicht Grund Agenten-Funktionen ChatGPT Work in Haupt-App
+[AI] Google Connected-Apps-Plattform oeffentliche Vorschau 30 Okt fremde Apps in Gemini-App und AI Mode Suche via MCP-Server ueber 50 Apps Entwickler bewerben Robby Stein
+[Termin] 1-2 Nov Rocket Lab Electron The Sea God Surveys iQPS Launch 9 Neuseeland SAR Erdbeobachtung
+[Termin] 3 Nov iOS 27.3 Beta erwartet USSF-432 Falcon 9 Vandenberg
+[Termin] 4 Nov Apple Intelligence China Testbeginn
+[Termin] 5 Nov ISS US-EVA-101 achtes letztes iROSA Stromupgrade abgeschlossen
+[Termin] 6 Nov neue Macs Touchscreen-MacBook-Pro M6-MacBook-Pro iMac OLED-iPad-mini Verkauf Starlink 15-21
+[Termin] 8 Nov Starship Flug 15 Doppelfang beide Stufen
+[Termin] 9 Nov Anthropic Plugins GA formale IPO-Vermarktung moeglich 13 Nov Anthropic Usage Policy 17 Nov Gemini Gems zu Skills 20 Nov ULA Vulcan RTF OpenAI Usage Policy
+[Termin] Dezember BepiColombo Merkur Blue Origin New Glenn Blue Ring Apple Intelligence China iOS 27.3 Release
