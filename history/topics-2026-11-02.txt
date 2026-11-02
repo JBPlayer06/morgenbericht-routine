@@ -1,0 +1,17 @@
+[Schweiz] Migros Konzernumbau Nold-Interview langfristig in 10 Jahren mehr Mitarbeitende CEO Irminger Abgang Management und zentrale Funktionen Stellen weg Filialen unveraendert Sozialplan
+[Schweiz] Swissmem Swissmechanic Fusion gescheitert Widerstand mehrerer Regionalsektionen gemeinsamer Verband Techindustrie mehr politisches Gewicht
+[Schweiz] RUAG neuer CEO Patrick Fetzer ab 1 Jan 2027 loest Interim-CEO Oliver Mueller ab
+[Apple] Apple Q4-Geschaeftsquartal Zahlen heute 2 Nov nach US-Boersenschluss erster Bericht unter CEO John Ternus Markt schaut auf faltbares iPhone und China Absatz +3,1 Serie China +29 USA Japan ruecklaeufig
+[Apple/Tools] Google Slides Gemini ganze Praesentation per einzigem Auftrag umbauen Titel vereinheitlichen Farbschema Vorlage direkt in bearbeitbarer Datei statt flaches Bild Rollout seit 29 Okt Workspace AI-Plaene
+[Raumfahrt] NASA Artemis III Isaacman 31 Okt Crew startet erst wenn Blue Origin Blue Moon im Orbit geprueft unfertiger Lander Taktgeber NASA leiht Personal und Transportflugzeuge an Blue Origin Lander 30 Tage Loiter 90 Tage hinter Plan Lieferkette Betankungstest Ende Jahr New Glenn Pad-Betrieb November
+[Raumfahrt] ULA Vulcan Rueckkehr neu Ziel 13 Nov erster Flug seit Duesenstoerung Februar Maiden VC6L 40 Amazon-Leo-Kuiper-Satelliten erster von 38 fuer Amazon
+[Raumfahrt] SpaceX Falcon 9 700. Flug Freitag 30 Okt mit Starlink 15-18 Booster B1093 18. Landung Mengenrekord Abhaengigkeit von einer Rakete
+[AI] DeepSeek Super-Agent dsh-superagent quelloffen MIT GitHub WeChat Samstag 31 Okt Coding-Agent gegen Anthropic Claude Code liest Entwickler-Gruppenchats GitHub Feishu erkennt Fehler parallele Sitzungen Router-Worker wenig menschliche Aufsicht Forschungsprototyp 4600 Sterne DeepSeek ca 15 Mrd vor IPO
+[AI] Anthropic Text-Wasserzeichen Ausweitung ab 3 Nov auf aeltere Modelle Mythos 5 Opus 4.7 Opus 4.6 Sonnet 4.6 angekuendigt Fr 30 Okt EU-Transparenzpflicht maschinell erzeugte Texte
+[AI] Anthropic Claude Code Spiele-Nachbau-Sperre Fehlalarme legitime bezahlte Auftraege Entwickler-Aerger Flag tengu_heron_brook Osmani Anthropic sammelt Faelle Folge der 30-Okt-Bestaetigung
+[Termin] 3-4 Nov iOS 27.3 erste Beta Apple Intelligence China Alibaba Qwen
+[Termin] 4 Nov Hera Ankunft Didymos erste Dimorphos-Detailbilder 25 Nov
+[Termin] 5 Nov ISS letzte US-EVA-101 achtes iROSA Solar-Upgrade abgeschlossen
+[Termin] 6 Nov neue Macs Touchscreen-MacBook-Pro M6-MacBook-Pro iMac OLED-iPad-mini Verkauf
+[Termin] 13 Nov ULA Vulcan Return-to-Flight 40 Amazon-Leo
+[Termin] Starship Flug 15 November Doppelfang beide Stufen festes Datum offen
