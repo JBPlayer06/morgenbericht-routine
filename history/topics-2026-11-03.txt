@@ -1,0 +1,29 @@
+[Schweiz] SMI Montag 2 Nov -0,05 Prozent 14'802,52 fast unveraendert Roche -1,5 Novartis -1,7 wegen Analysten-Abstufungen UBS Roche auf Neutral Kursziel 440 Deutsche Bank Novartis auf Sell Kursziel 115 SPI +0,10 SMIM +0,83 breiter Markt fester
+[Schweiz] Oelpreis Brent -6,5 Prozent Richtung 110 Dollar Hoffnung Entspannung Nahost stuetzt konjunktursensitive Titel
+[Schweiz] Schweizer Industrie-PMI Oktober +1,4 auf 56,7 Punkte achter Monat in Folge ueber Wachstumsschwelle Dienstleistungs-PMI 59,9
+[Schweiz] Autoneum uebernimmt franzoesische Treves-Gruppe waechst rund ein Drittel Pro-forma-Umsatz ueber 2,9 Mrd Fr Treves 2025 rund 720 Mio Euro 4600 Mitarbeitende Abschluss Q1 2027
+[Schweiz] Medartis hebt Jahresprognose 2026 an US-Momentum Daumenprothese Touch ueber 2000 Eingriffe Aktie +6,6 Arbonia senkt Prognose schleppendes Deutschlandgeschaeft Aktie -7 bis -11
+[Schweiz] Samsung Biologics haelt 97,99 Prozent an PolyPeptide Dekotierung geplant (Reserve)
+[Apple] Q4-Geschaeftsquartal FY2026 2 Nov nach US-Boersenschluss erster Bericht unter CEO John Ternus Umsatz +12 Prozent 114,5 Mrd Dollar EPS +14 auf 2,10 September-Rekord Gesamtjahr Rekord 479 Mrd Bruttomarge 47,9 Prozent
+[Apple] iPhone-Umsatz 57,6 Mrd +17 Prozent Rekord nur 8 Tage iPhone 18 Pro kein Duo im Quartal China +21 auf 17,5 Mrd aber ueber 1 Mrd unter Erwartung iPad 6,23 Mrd und Wearables -7,9 schwach Services 31,6 Mrd Allzeithoch Mac 10,8 Mrd beat
+[Apple] Dezemberquartal-Guidance Umsatz +7 bis 10 Prozent aber Bruttomarge 45-46 Prozent unter Erwartung Aktie nachboerslich rund -3 Prozent
+[Apple] iOS 27.2.1 in Tests Fehler- und Sicherheitskorrekturen inkl iPhone Duo macOS 27.2.1 blockiert eMudhra-Zertifikate in CLI-Tools iOS 27.3 erste Beta erwartet heute 3 Nov US-Zeit
+[Tools] Microsoft Copilot Notebooks Power-BI-Berichte als Referenz GA-Fahrplan verschoben auf Ende November 2026 MC1474458 Update 2 Nov
+[Raumfahrt] ESA Hera Ankunft Asteroidensystem Didymos Mittwoch 4 Nov erste Detailbilder Dimorphos DART-Einschlag 2022 (Termin)
+[Raumfahrt] ISS letzter von acht Ausseneinsaetzen EVA-101 Donnerstag 5 Nov Solar-Upgrade abgeschlossen Leistung +30 Prozent (Termin)
+[Raumfahrt] Tuerkei erste Mondmission TLM-1 gebucht auf Falcon 9 April bis Juni 2027 Off Planet News 2 Nov
+[Raumfahrt] SpaceX Starship Flug 15 alle Triebwerkstests durch Booster 22 25 Okt Ship 42 27 Okt wartet auf FAA-Lizenz kein festes Datum Doppelfang beide Stufen (Status kein neuer harter Fakt nur als Termin)
+[Raumfahrt] Anthropic identifiziert als SpaceX groesster Kunde Customer B ueber ein Drittel 34,5 Prozent SpaceX-Q3-Umsatz bis 120,5 Mrd Vertrag ca 3,1 Mrd pro Monat ab Dezember (im AI-Block verwendet)
+[AI] Anthropic amended S-1 2 Nov Q3-Umsatz rund 17 Mrd Dollar nach 1,4 Mrd Vorjahr QoQ-Wachstum 47 Prozent von 144 Q2 Nettoverlust 23,3 Mrd grossteils Buchhaltungseffekt Wandelanleihen operativer Verlust 567 Mio 9-Monate 33,2 Mrd
+[AI] Anthropic Rechen- und Infrastruktur-Verpflichtungen rund 895,4 Mrd Dollar fast alles Compute rund 70 Mrd innert Jahr faellig Broadcom 161 Google 121 SpaceX bis 120,5 Amazon 110 formelle IPO-Vermarktung naechste Woche Bewertung 1,5 Bio statt 2 Bio Japan bis 3,5 Mrd Retail Schwab Fidelity Robinhood SoFi E-Trade
+[AI] OpenAI verschmilzt Chat- und Work-Tabs zu einer Oberflaeche Test kleine Nutzergruppe folgt Anthropic Chat-Cowork-Merge September Codex bleibt separat gemeinsamer Token-Topf ab Dezember (Merge neu)
+[AI] Elon Musk KI-Sparte xAI kuerzt Nutzungslimits fuer Grok-Agenten Halloween-Wochenende Grund Serverkosten unverhaeltnismaessig hoch zu Umsatz Grok Bot teilt Quota mit Grok und Cursor 800000 zahlende Nutzer pro Woche
+[AI] Marvell kauft Lumentum 115 Mrd Dollar AI-Datacenter-Optik Oracle will 20 Mrd aufnehmen AI-Capex-Nervositaet (Reserve nicht im Bericht)
+[AI] OpenAI LifeVal neuer Alltags-Aufgaben-Benchmark 2 Nov (Reserve nicht im Bericht)
+[Termin] Mi 4 Nov Hera Ankunft Didymos Apple Intelligence China Testbeginn iOS-Entwicklerbeta
+[Termin] Do 5 Nov ISS EVA-101 letztes iROSA Solar-Upgrade abgeschlossen
+[Termin] Fr 6 Nov neue Macs Touchscreen-MacBook-Pro M6-MacBook-Pro iMac OLED-iPad-mini Verkauf
+[Termin] naechste Woche Anthropic formelle IPO-Vermarktung moegliche Notierung Mitte November Nasdaq ANT
+[Termin] 13 Nov ULA Vulcan Return-to-Flight 40 Amazon-Leo Apple HomeView und Apple TV 4K Verkauf
+[Termin] 17-20 Nov Microsoft Ignite Copilot-Ankuendigungen Starship Flug 15 November Doppelfang Datum offen
+[Termin] Dezember iOS 27.3 Release Apple Intelligence China BepiColombo Merkur Blue Origin New Glenn Rueckkehr
