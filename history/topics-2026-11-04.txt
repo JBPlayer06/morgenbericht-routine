@@ -1,0 +1,29 @@
+[Schweiz] SMI Dienstag 3 Nov -0,40 Prozent 14'743,09 richtungslos Tech-nahe schwach wegen schwachem Apple-Margenausblick Logitech -2,8 Geberit -2,2 Galderma -1,3 CFO-Abgang nach sechs Monaten Roche -1,6 Burckhardt Compression +12,2 starkes Zwischenergebnis Rueckkehr Auftragseingang-Wachstum Basilea +4,1 Pfizer-Meilenstein Clariant +1,4 Brent unter 101 dann 103 Nahost US-Zwischenwahlen
+[Schweiz] Lonza uebernimmt fuenf CDMO-Werke USA von Merck KGaA verdoppelt US-Praesenz auf neun Standorte rund 1100 Mitarbeitende wechseln ueber 6000 in USA Preis niedriger bis mittlerer dreistelliger Millionenbetrag CHF 250 Mio Umsatz 2028 Abschluss Mitte 2027 Standorte St Louis Madison Verona Carlsbad Indianapolis
+[Schweiz] Holcim bestaetigt Cyberangriff begrenzter unbefugter Zugriff auf Daten samt Entwendung Ransomware-Bande Emperador will 360 GB erbeutet haben droht Veroeffentlichung Produktion Logistik unberuehrt Emperador seit August aktiv rund 80 Angriffe erstes Schweizer HQ-Opfer
+[Schweiz] Cembra schliesst Uebernahme Santander-Autofinanzierung Schweiz ab rund 800 Mio Leasingaktiven (Reserve nicht im Bericht)
+[Schweiz] Geberit 9 Monate Umsatz 2535 Mio Prognose 2026 bestaetigt (Reserve nicht im Bericht)
+[Apple] iOS 27.3 erste Entwickler-Beta 3 Nov groesstes 27er-Update Safari vertikale Tabs adaptiver Dunkelmodus ueberarbeitete Health-App zurueck Insights Longevity-Tab Health Age aus Apple-Watch-Werten Ruhepuls VO2max HRV At-Home-Bewegungstests iPhone-Kamera plus Watch neue Siri-Aktionen viele Apps App-Intents-Entwicklervorschau iPhone Duo Reachability StandBy auf iPhone 11+ Apple Intelligence China live Alibaba Qwen oeffentliche Freigabe Dezember relevant iPhone 17 Pro
+[Apple] watchOS 27.3 Live Rewind Siri Recap aber nur Apple Watch Series 12 und Ultra 4 nicht Ultra 3
+[Tools] Microsoft ersetzt eigenstaendige Word- Excel- PowerPoint-Agenten in Copilot durch eingebaute Chat-Faehigkeiten GA Mitte Nov bis Ende Dez MC1536062 man fragt direkt im Copilot-Chat
+[Tools] Microsoft Copilot neue Buchhaltungs-Faehigkeiten Excel und Cowork Preview spaet Okt GA 13 Nov MC1536053 (Reserve)
+[Tools] Office in Copilot weltweit GA Mitte November MC1530611 Copilot Notebooks Power-BI-Referenzen GA Ende Nov MC1474458 (Reserve bereits frueher)
+[Raumfahrt] ESA Hera Ankunft Doppelasteroid Didymos heute 4 Nov ECP-1 erste Annaeherung relative Geschwindigkeit 20 m/s nach zwei Bremsmanoevern Oktober Nahaufnahme Dimorphos Einschlagsort DART 2022 Umlaufbahn staerker verschoben als erwartet Grund offen Crash-Site-Survey Asteroidenabwehr erste Detailbilder 25 Nov
+[Raumfahrt] TWIS neustes Video 3 Nov Isaacman-Interview Artemis ISS Pick Virgin Galactic erstes Delta-Klasse-Raumschiff Apeiron vorgestellt eingetroffen Spaceport America New Mexico kommerzielle Rueckkehr Q2 2027 nach jahrelanger Pause
+[Raumfahrt] TWIS Pick Rocket Lab Neutron Nutzlastverkleidung Hungry Hippo Flight-Hardware zur Testanlage Virginia nahe Wallops Verkleidung bleibt an erster Stufe wird zusammen geborgen statt separat Start dieses Jahr knapp erste Stufe noch im Bau
+[Raumfahrt] ULA Vulcan Return-to-Flight Ziel 13 Nov VC6L erstmals sechs Booster 40 Amazon-Leo Amazon unter 400 Satelliten im Orbit (Termin bereits berichtet)
+[Raumfahrt] Rocket Lab Electron iQPS Start 2 Nov Neuseeland (Routine nicht im Bericht) Falcon 9 USSF-432 Vandenberg 4 Nov (Routine)
+[AI] Anthropic FlashProve offengelegt 3 Nov Open-Source-Forschungsprototyp provable inference Zero-Knowledge-Beweis welches Modell eine Antwort erzeugt hat ohne Gewichte preiszugeben verhindert heimlichen Modelltausch verifiziert Claims Frontier Red Team plus EPFL MIT StarkWare Succinct nicht im Einsatz Zwischenstand Llama 4 Maverick 110 Token/s H100 19 MB Proof
+[AI] Anthropic Message Threads oeffentliche Beta 2-3 Nov Messages API reduziert Latenz Claude Code ca 35 Prozent bei 500k-1M Token nur neue Nachrichten plus Previous-Response-ID Verlauf bleibt im Speicher Thread laeuft nach 5 Min Inaktivitaet ab Token-Kosten gleich AWS Foundry Google Cloud default fuer meiste Claude-Code-Nutzer
+[AI] Anthropic CrowdStrike Falcon Guardian AIDR nativ in Claude Cowork integriert 3 Nov Fal.Con Europe Barcelona Agenten-Sicherheit (Reserve nicht im Bericht)
+[AI] Anthropic Text-Wasserzeichen ab 3 Nov wirksam auf Mythos 5 Opus 4.7 Sonnet 4.6 (bereits als Ankuendigung berichtet)
+[AI] OpenAI Presseanlass 3 Nov Adam Fry 1,2 Mrd woechentliche Nutzer +200 Mio in zwei Monaten ChatGPT-Suche rund 20 Prozent des Google-Volumens 1,5 Mrd Bilder/Woche Voice 250 Mio
+[AI] OpenAI Chat- und Work-Tabs Merge Test kleine Nutzergruppe gemeinsamer Token-Topf Codex separat (bereits 3 Nov berichtet dup) OpenAI Pro-Limits verdoppelt (bereits berichtet) OpenAI Finances Voice-Chat Plaid Experian US 3 Nov (Reserve)
+[AI] OpenAI Dots GPT-6 Astra und GPT-6.1 Terra dynamische Modellwahl iMessage Google Messages 3 Nov (Reserve)
+[Termin] Do 5 Nov ISS US-EVA-101 letzter von acht Ausseneinsaetzen Solar-Upgrade abgeschlossen Leistung +30 Prozent
+[Termin] Fr 6 Nov neue Macs Verkauf erstes Touchscreen-MacBook-Pro M6-MacBook-Pro iMac OLED-iPad-mini
+[Termin] Fr 13 Nov ULA Vulcan Return-to-Flight 40 Amazon-Leo Apple HomeView und Apple TV 4K Verkauf
+[Termin] 17-20 Nov Microsoft Ignite Office in Copilot GA Mitte Nov Copilot-Buchhaltung GA 13 Nov
+[Termin] 25 Nov Hera erste Detailbilder Dimorphos
+[Termin] Dezember iOS 27.3 Release Apple Intelligence China BepiColombo Merkur Blue Origin New Glenn Rueckkehr Anthropic IPO Vermarktung Mitte November Nasdaq ANT
+[Termin] November Starship Flug 15 Doppelfang beide Stufen wartet auf FAA-Lizenz Datum offen
