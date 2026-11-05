@@ -1,0 +1,27 @@
+[Schweiz] SMI Mittwoch 4 Nov erstmals ueber 15'000 Schluss 15'022,85 +1,9 Prozent Intraday-Rekord 15'044 Ausloeser US-Zwischenwahlen Demokraten gewinnen beide Kammern Erleichterungsrallye Umschichtung aus KI-Halbleiterwerten in Banken plus Brent unter 99 Dollar Logitech +8,7 im Kielwasser Apple Alcon +5,8 UBS +4,6 Bericht Eigenkapital-Kompromiss AMS Osram Comet VAT deutlich runter KI-Rechenzentrum-Regulierungssorge
+[Schweiz] Meier Tobler +19 Prozent Uebernahmeangebot schwedischer Ahlsell rund 492 Mio Franken 45,50 Fr je Aktie Praemie 30,8 Mehrheitsaktionaer Silvan Meier 59,3 Prozent
+[Schweiz] Bundesrat BVG-Mindestzins ab 2027 von 1,25 auf 2 Prozent angehoben Kommission empfahl 1,75
+[Schweiz] Barry Callebaut Jahreszahlen 2025/26 Reingewinn -16,3 Prozent 157,7 Mio +8,6 Kurs Hershey-Vereinbarung Ende 2027 (Reserve nicht im Bericht)
+[Schweiz] CPI Oktober +0,2 Prozent YoY 1,5 (Reserve nicht im Bericht)
+[Apple] ruhiger Tag kein neuer Apple-Release iOS 27.3 erste Beta seit Dienstag 3 Nov bereits berichtet Hinweis 6 Nov neue Macs Verkauf
+[Tools] Microsoft Copilot-Chat neu gratis direkt in Word Excel PowerPoint Outlook OneNote Seitenleiste bisher 30-Dollar-Add-on noetig Konkurrenzdruck Blogpost diese Woche
+[Tools] Microsoft Copilot in Excel Power-BI-Grounding freigegebener Power-BI-Bericht direkt in Excel auswerten ohne Export Row-Level-Security bleibt Rollout Produktion Windows Mac Web
+[Raumfahrt] Starfish Space erster vollwertiger Otter-Satellit verloren NASA-Mission SSPICY vorzeitig beendet angekuendigt Di 3 Nov Fehlerschutz-Fehler Satellitenbus Astro Digital schaltete Funk ab nicht wiederherstellbar Start 1 Okt Transporter-18 Inspektion toter Objekte Weltraumschrott-Technik Fehlschlag
+[Raumfahrt] China Star Vision Vertrag KI-gestuetzte Satellitenkonstellation fuer Oman unterzeichnet Mo 2 Nov Peking Staatsbesuch Sultan Oman Lens zunaechst sieben Satelliten spaeter bis zu zwanzig Space Computing
+[Raumfahrt] Astrolab Mondmodul LUMIS angekuendigt Mi 4 Nov vertikales Solar-Array Batterien Strom und Kommunikation Mondbasis auf FLEX-Rover 2 kW erste Demo ab 2028 kommerzieller Starship-Lander
+[Raumfahrt] NASA-Teleskop Swift unkontrollierter Wiedereintritt diese Woche ~4 Nov ~08:30 UTC 20 Jahre Gammablitz-Jaeger grossteils verglueht Risiko 1 zu 2100
+[Raumfahrt] ISS US-EVA-101 Do 5 Nov achter und letzter Ausseneinsatz iROSA-Solar-Upgrade abgeschlossen Leistung +30 Prozent (Termin heute)
+[Raumfahrt] TWIS geprueft neustes Video 3 Nov bereits 11-04 ausgeschoepft heute kein neuer TWIS-Punkt
+[AI] Anthropic Roadshow-Pitch Berichten zufolge The Information Di 3 Nov 15-koepfiges Chip-Design-Team nutzt Claude fuer eigene Custom-Chips zum Training und Betrieb Claudes Speedup vs eigene Nvidia-AMD-Schaetzungen nicht im S-1 unbestaetigt
+[AI] Anthropic eigene IPO-Webseite aufgeschaltet 4 Nov Pfade USA UK Kanada Australien Japan Retail Interactive Brokers Revolut SBI Handelsstart weiter Woche ab 16 Nov angepeilt Nasdaq ANT
+[AI] Anthropic Watermark zweite Welle ab 16 Nov Opus 4.6 4.5 Sonnet 4.5 Haiku 4.5 the-decoder leicht umgehbar (Reserve nicht im Bericht)
+[AI] OpenAI Images 2.6 4 Nov global ChatGPT Codex alle Tarife 50 Prozent schneller animierte GIFs in einem Schritt gespeicherte Referenzbilder GPT-Image-2.6 Flare Speed Sunburst Quality API SVG-Export ueber 4 Mrd Bilder pro Woche von 3 Mrd Sept
+[AI] Google Gemini Computer-Use-Tool allgemein verfuegbar 4 Nov Gemini API Browser Desktop Handy KI-Agent klickt tippt scrollt 3.8 Flash empfohlen 4 Argon komplex Prompt-Injection-Schutz Screenshots
+[AI] OpenAI visuelles Werbeformat Ausweitung Messpartner 4 Nov (Reserve bereits aehnlich berichtet)
+[AI] Google Gemini 4 Carbon SemiAnalysis GDPx-Benchmark 10,9 vs Opus 5.5 12 billiger (Reserve Modell bereits 28 Okt berichtet)
+[Termin] Fr 6 Nov neue Macs Touchscreen-MacBook-Pro M6-MacBook-Pro iMac OLED-iPad-mini Verkauf
+[Termin] Woche ab 9 Nov Anthropic Roadshow moegliche Erstnotierung ab 16 Nov Nasdaq ANT Preis frueheste 13 Nov
+[Termin] 13 Nov ULA Vulcan Return-to-Flight VC6L 40 Amazon-Leo-Satelliten Apple TV 4K HomeView Verkauf
+[Termin] 17-20 Nov Microsoft Ignite Office in Copilot GA Mitte Nov Copilot-Buchhaltung GA 13 Nov
+[Termin] 25 Nov Hera erste Detailbilder Dimorphos
+[Termin] Dezember iOS 27.3 Release Apple Intelligence China BepiColombo Merkur Blue Origin New Glenn Rueckkehr Pad erste Haelfte Dezember
