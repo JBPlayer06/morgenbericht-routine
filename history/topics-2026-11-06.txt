@@ -1,0 +1,21 @@
+[Schweiz] SMI Donnerstag 5 Nov -0,37 Prozent 14'967 zurueck unter 15'000 Intraday-Rekord 15'092 Ernuechterung nach US-Wahleuphorie Sorge strengere Regeln KI-Rechenzentren
+[Schweiz] ABB -4,2 Prozent China blockiert Verkauf Robotiksparte an Softbank rund 5,4 Mrd Dollar Sorge Fertigungsdaten ins Ausland milliardenschwere Transaktion gefaehrdet
+[Schweiz] Swisscom Neunmonat Reingewinn +2,4 auf 1,01 Mrd Umsatz -2,1 Aktie +3,3 neues Hoch 734,50 rund 700 Stellen Schweiz Abbau seit Jahresbeginn
+[Schweiz] Swiss Re 9 Monate Reingewinn +3 auf 4,17 Mrd Dollar ueber Konsens Aktie +2,0 Mehrjahreshoch Aktienrueckkauf 1,5 Mrd fast fertig
+[Schweiz] Tecan +11,8 Jahresprognose erhoeht starkes Q3 Beyond Gravity verkauft Werk Alabama an ULA (Reserve)
+[Apple] fuenf neue Geraete Verkaufsstart heute 6 Nov iPad mini OLED A20 Pro iMac M6 14-Zoll-MacBook-Pro M6 erste Touchscreen-OLED-MacBook-Pro 14 ab 2899 16 ab 3399 Basismodell Space Black 3-4 Wochen Lieferung
+[Apple] iOS 27.3 oeffentliche Beta 5 Nov gleicher Build wie Dev-Beta Health-App Longevity Health Age Safari vertikale Tabs Adaptive Dark Mode Apple Intelligence iPhone noetig watchOS 27.3 Live Rewind Siri Recap nur Series 12 Ultra 4 nicht Ultra 3
+[Raumfahrt] Blue Origin New Glenn Return-to-Flight verschoben auf Januar 2027 von Jahresende rund 10 Tage spaeter Grund Startrampe-Wiederaufbau Florida schlechtes Wetter Sommer trifft Amazon Leo
+[Raumfahrt] Blue Origin Up.Summit KSC 5 Nov neue dritte Stufe GS3 BE-7 direkt GEO Earth-escape 14t GEO 20t TLI 9x4 erster Kohlefaser-LH2-Tank im All Regierungsmission cislunar 2028 plus neues Ersttriebwerk Northstar 715'000 Pfund Schub vs BE-4 640'000
+[Raumfahrt] ISS US-EVA-101 Donnerstag 5 Nov Kutryk Menon achtes letztes iROSA ausgefahren fuenfjaehriges Stromupgrade abgeschlossen Stromfehler-Pruefung +30 Prozent 160 auf 215 kW bis 2030 Deorbit 6h59min
+[Raumfahrt] TWIS-Pick Hubble NASA RFI Industrie reboost service oder sicher deorbit Umlaufbahn sinkt aus Nov-3-Video erstmals verwendet
+[AI] Anthropic Claude Personal Finance 5 Nov Plaid Bank- und Kartenkonten read-only kein Geld bewegen max 2 Jahre Transaktionen keine Werbung kein Training Beta diese Woche Pro Max Ultra US Nachzug zu ChatGPT Mai vor IPO Rumor Claude Money 20 Okt jetzt bestaetigt
+[AI] Anthropic METR unabhaengiger Bericht 5 Nov Modellentwicklung ca doppelt so schnell wie vor einem Jahr trotz Amodei-Vorsichtsmahnungen vor Boersengang
+[AI] OpenAI GPT-6 Cyber 5 Nov Sicherheitsmodell ExploitGym 48,5 von 32,1 81 unbekannte schwere Firefox-Luecken Critical eingestuft bleibt im Scope 99,93 Prozent
+[AI] Anthropic Claude Dispatch Flaw ThisBash The Register 5 Nov nicht gefixt Dispatch wird retired (Reserve nicht im Bericht)
+[AI] OpenAI ChatGPT Dots GPT-6 Astra und 6.1 Terra dynamische Modellwahl Direktnachricht 4-5 Nov (Reserve bereits aehnlich berichtet)
+[Termin] Fr 6 Nov neue Macs iPad mini Verkauf Escapade Mars-Orbiter Erd-Flyby 6-9 Nov
+[Termin] 13 Nov ULA Vulcan Return-to-Flight 40 Amazon-Leo Apple HomeView Apple TV 4K Verkauf Anthropic IPO-Preis fruehestens
+[Termin] ab 16 Nov Anthropic Boersengang Nasdaq ANT Microsoft Ignite 17-20 Nov
+[Termin] 25 Nov Hera erste Detailbilder Dimorphos
+[Termin] Dezember iOS 27.3 Release Apple Intelligence China BepiColombo Merkur Blue Origin New Glenn jetzt Januar 2027
