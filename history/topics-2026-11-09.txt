@@ -1,0 +1,16 @@
+[Schweiz] ABB prueft mit Softbank Ausgliederung China-Geschaeft Robotiksparte eigenstaendige Firma Rettungsversuch 5,4 Mrd Dollar Verkauf von chinesischer Investitionspruefbehoerde vergangene Woche untersagt Sorge Fertigungsdaten Ausland Bloomberg 8 Nov
+[Schweiz] On Holding Justizminister Beat Jans interne Untersuchung Lex On Lockerung Swissness-Regeln widerspruechliche Aussagen vor GPK Bericht Q1 2027 NZZaS 8 Nov
+[Schweiz] Migrol Heizoel-Engpass-Warnung Rhein-Niedrigwasser Nachschub gebremst Wintereinbruch Zuspitzung 2-3 Wochen NZZaS 8 Nov
+[Apple] Apple Entwicklungsablauf iOS 28 macOS 28 umgestellt erste Phase 6 Wochen Programmieren 2 Wochen Konvergenz statt je 4 mehr Zeit Entwickler Gurman Power On 8 Nov Beta Juni Release Sept 2027
+[Apple] macOS 27.3 Full Disk Access Schlupfloch geschlossen unerlaubt zugreifende App nicht mehr automatisch schnell aktivierbare Option Reaktion KI-Agenten Vollzugriff Missbrauch Nutzerdaten noch in Entwicklung 9to5mac 8 Nov
+[Raumfahrt] SpaceX Starship Flug 15 volles Missionsprofil veroeffentlicht Ship 42 ca 22 Stunden 14 Umlaeufe 26 Starlink V3 davon 3 umgebaut Hitzeschild fotografieren Doppelfang beide Stufen erstmals Oberstufe Startfenster 22:45 UTC Fr 13 Nov FAA-Lizenz steht aus 8 Nov
+[Raumfahrt] NASA sucht erstmals seit zwei Jahren wieder neue Astronauten Bewerbung geoeffnet 7 Nov
+[Raumfahrt] Pakistanischer Astronaut auf Shenzhou 24 erster Auslaender chinesische Raumstation Berichten chinesischer Staatsmedien zufolge
+[Raumfahrt] TWIS-Pick Nov-3-Video erstmals verwendet Vera-Rubin-Observatorium moeglicher Zwergplanet jenseits Neptun Kandidat nicht bestaetigt
+[AI] Anthropic Generator-Deal rund 3,4 Mrd Dollar 1,7 GW Gasgeneratoren OnePWR Solutions Ende September gesichert Grund starke Claude-Nachfrage Strom Rechenkapazitaet FT 8 Nov
+[AI] Anthropic IPO Bewertung gerutscht Investoren diskutieren 1,2-1,3 Billionen teils 1,1 nach zuletzt 1,5 urspruenglich ueber 2 Ausloeser Nasdaq-Ausverkauf 5 Nov Roadshow diese Woche Erstnotierung ab 16 Nov ANT Bloomberg 8 Nov
+[AI] Anthropic Claude Max Klage US-Bundesgericht Nordkalifornien Alex Tse laesst Vorwurf irrefuehrende Werbung 5x 20x mehr Nutzung als Pro zu Vielfache pro 5-Stunden-Fenster Wochenlimits nicht gleich einige Punkte abgewiesen Klaeger darf nachbessern 7-8 Nov
+[AI] Meta Muse persoenlicher Assistent USA erweitert Sprachsteuerung Muse Voice Echtzeit-Avatare Realtime Avatars 8 Nov
+[Termin] Fr 13 Nov Starship Flug 15 Doppelfang 22:45 UTC ULA Vulcan RTF 40 Amazon-Leo Apple TV 4K HomeView Verkauf Anthropic IPO-Preis fruehestens
+[Termin] Woche ab 16 Nov Anthropic Boersengang Nasdaq ANT Microsoft Ignite 17-20 Nov
+[Termin] 21 Nov BepiColombo Merkur-Orbit 25 Nov Hera Dimorphos-Detailbilder Dezember iOS 27.3 Release Apple Intelligence China Blue Origin New Glenn jetzt Januar 2027
