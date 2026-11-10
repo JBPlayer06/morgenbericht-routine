@@ -1,0 +1,20 @@
+[Schweiz] SMI Montag 9 Nov Erholung Schluss 14'946,15 deutlich hoeher vorboerslich noch Minus erwartet 14'750 nach Tech-Ausverkauf Vorwoche Anleger wieder zu Roche VAT Cicor gefragt Swiss Re verlieren
+[Schweiz] Stadler Rail Auftrag vier Batteriezuege Typ RS Zero daenischer Bahnbetreiber Lokaltog Montag gemeldet
+[Schweiz] Lindt und Spruengli Grossaktionaere fordern Umbau Verwaltungsrat CEO-Suche laeuft
+[Schweiz] Reserve nicht im Bericht Nvidia-Spionageaffaere Huang FBI ermittelt Aktienkurs bricht ein Aktionaersklage, Methode Guelsha Self-Checkout KI Ladendiebstahl Detailhandel, Alcon Pershing Square vor Zahlen
+[Apple] ruhiger Tag iOS 27.3 erste Beta laeuft weiter Health-App runderneuert Longevity Fitness+ Gym Strength Release Dezember iPhone 17 Pro bereits berichtet nur Status
+[Apple] Termin HomeView Steuerhub und Apple TV 4K Verkauf Donnerstag 13 Nov vorerst nur USA
+[Tools] Ausblick Microsoft Ignite 17-20 Nov neue Copilot-Funktionen erwartet Office in Copilot Word Excel PowerPoint Mitte November direkt in Copilot-App Power BI
+[Raumfahrt] NASA ESCAPADE Mars-Mission beide Erd-Vorbeifluege powered Earth flybys abgeschlossen auf dem Weg zum Mars zwei kleine Sonden Sonnenwind Marsatmosphaere eingetretenes Ereignis 9 Nov
+[Raumfahrt] Planet Erdbeobachter bucht mehrere Starts bei Stoke Space Nova Mehrfach-Startvertrag junger Anbieter voll wiederverwendbar Erstflug ausstehend Wettbewerb nach SpaceX-Falcon-Rueckzug 9 Nov
+[Raumfahrt] CHAPEA Mission 2 Crew nach 378 Tagen simulierte Mars-Isolation NASA verlassen Texas reflektiert 9 Nov
+[Raumfahrt] Starship Flug 15 Termin Fr 13 Nov Doppelfang beide Stufen bereits berichtet nur Abschluss-Termin kein neuer harter Fakt
+[Raumfahrt] geprueft kein neues This Week in Spaceflight Video nach Nov-3 Nov-3-Video bereits ausgeschoepft heute kein TWIS-Punkt. Reserve AST SpaceMobile Rakuten Japan JV, Long March 12 SatNet, Starlink Rettung Kasachstan, Rubies on Mars Perseverance Korund Lumineszenz altes Ergebnis Erklaerstueck
+[AI] Anthropic Claude Fable 5.2 und Mythos 5.2 vorgestellt 9 Nov wohl letzte grosse Modelle vor Boersengang mehr Leistung als GPT-6 Astra 20 Prozent guenstiger 8 Dollar Input 40 Dollar Output pro Mio Token vs 10/50 cached bis 80 Prozent guenstiger 20 Cent vs 1 Dollar Coding-Benchmarks Mythos Cybersecurity 1 von 6 Bugs nur Mythos 1000 Agenten Fable Fermats letzter Satz 30 Stunden statt 11 Tage drei Elektronikgeraete aus einem Absatz Grund Umsatzwachstum ankurbeln OpenAI Codex tiefere Preise
+[AI] OpenAI kauft Pierre Computer Company Entwicklerwerkzeuge Code Storage Git Trees Diffs Codex zu voller Entwicklungsplattform Versionsverwaltung Code-Review Pando Git Backend 9 Nov
+[AI] Anthropic Claude Code Don't Ask Again nicht mehr fragen Funktion legt Passwoerter API-Keys SSH Klartext lokale Settings-Datei ab Apiiro ueber 1000 bzw 2539 Secrets offen auf GitHub 9 Nov
+[AI] Reserve nicht im Bericht OpenAI ChatGPT Enterprise AWS Marketplace, OpenAI Control Room kill switch 35 Sekunden, Meta Muse Ember 0,10 Dollar Modell, ByteDance Seedream 5.5, Fireworks AI zweiter Hack, WorkOS rogue agent, Anthropic Max Klage (bereits 9 Nov), Anthropic Generatoren 3,4 Mrd (bereits 9 Nov), Anthropic IPO Bewertung gerutscht (bereits)
+[Termin] Fr 13 Nov Starship Flug 15 Doppelfang beide Stufen 22:45 UTC ULA Vulcan Return-to-Flight 40 Amazon-Leo Apple HomeView und Apple TV 4K Verkauf Anthropic IPO-Preis fruehestens
+[Termin] Woche ab 16 Nov Anthropic Boersengang Nasdaq ANT Microsoft Ignite 17-20 Nov Office in Copilot GA Mitte Nov
+[Termin] 21 Nov BepiColombo Merkur-Orbit 25 Nov Hera Dimorphos-Detailbilder
+[Termin] Dezember iOS 27.3 Release Apple Intelligence China Blue Origin New Glenn jetzt Januar 2027
