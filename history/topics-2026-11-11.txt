@@ -1,0 +1,20 @@
+[Schweiz] SMI Dienstag 10 Nov Schluss 15'037,94 +0,61 Prozent knapp 55 Punkte unter Rekord 15'092,56 Rueckenwind Oelpreis Brent unter 90 Dollar Iran-Entspannung Trump trotz hoher US-Inflation Okt +0,4 Prozent MoM Fed-Zinserhoehung Dezember fast sicher Waller 50 BP
+[Schweiz] Richemont +2,7 Tagessieger chinesische Luxusimporte Okt +41,6 Prozent Watches of Switzerland Ausblick angehoben Swatch +2,6
+[Schweiz] LEM -7,2 Prozent trotz starker Halbjahreszahlen vorsichtiger Jahresausblick Datacenter-Nachfrage
+[Schweiz] Sunrise -4,1 nach Q3 Erwartungen erfuellt intensiver Wettbewerb 358 weitere Stellen Abbau BKW +1,7 Prognose bestaetigt DocMorris +6,5 ZKB-Hochstufung (Reserve)
+[Apple] Apple Intelligence Usage Packs 50 Dollar eingefuehrt 10 Nov zusaetzliche KI-Nutzung Creator-Studio-Apps Logic Pro monatliche Gratis-Kontingente greifen jetzt weitere Apps folgen relevant iPhone 17 Pro
+[Apple] neue Mac-App lokale KI-Modelle einfach herunterladen und ausfuehren 9to5mac 10 Nov relevant App-Entwicklung
+[Tools] Microsoft Power Platform Okt/Nov-Update Copilot in modellgesteuerten Power Apps KI-Code in Power Pages Vorschau 10 Nov Ignite 17-20 Nov
+[Raumfahrt] SpaceX Starship Flug 15 Booster 22 am Dienstag 10 Nov zum Startturm gerollt und gestapelt fest Fr 13 Nov 22:45 UTC Doppelfang beide Stufen erste vollstaendige Bergung Orbitalrakete samt Oberstufe (neuer Fakt Rollout/Stacking)
+[Raumfahrt] Rocket Lab Electron hundertster Start The Mountain God Rises NET Sa 14 Nov iQPS QPS-SAR Radar-Satellit Meilenstein erste kommerzielle Kleinrakete mit 100 Fluegen
+[Raumfahrt] TWIS-Pick neustes Video 10 Nov Mars Vulkanismus ESA Trace Gas Orbiter HCl Chlorwasserstoff am Alba Mons frische schmale Risse Zeichen ruhender vielleicht aktiver Vulkanismus Team u.a. Uni Bern Nicolas Thomas Studie Science Advances 4 Nov noch unbestaetigt
+[Raumfahrt] Reserve nicht im Bericht NASA Moon Base CLPS 2 10 Mrd acht Firmen PROMISE-Rover (bereits 8 Nov), ESCAPADE Mars-Flyby abgeschlossen (bereits 10 Nov), SpaceX Infrastructure Company Falcon-Retirement (Echo), Blue Origin New Glenn GS3 Northstar (bereits 6 Nov), AST SpaceMobile Blacklift (bereits 8 Nov), Suedkorea Mir Demoflug, Tiangong Quantengas 9,7 pK
+[AI] Anthropic Boersengang Preisspanne 70 bis 78 Dollar je Aktie Handel ab 19 Nov Nasdaq Bewertung bis zu 1,4 Billionen Dollar groesster IPO der Geschichte Test KI-Euphorie nach Kurssturz Vorwoche einige Investoren hatten mehr erwartet 10 Nov
+[AI] Anthropic Office-Suite 10 Nov Claude Sheets Whiteboards Meetings vorgestellt Claude Data (vormals Dashboards) nun GA alle Bezahlplaene Angriff auf Microsoft Office und Google ueber Programmierer hinaus zu Bueroleuten Microsoft-Aktie gab nach Claude Data an Datenbanken CRM fuer Dashboards relevant Power BI
+[AI] OpenAI Businesses in ChatGPT Beta 10 Nov Firmen Profil beanspruchen Business Hub Business Agent US-E-Commerce Richtung Google-artige Suche 1,2 Mrd Wochennutzer
+[AI] OpenAI Q3-Umsatz erstmals rund 10 Mrd Dollar plus fast 50 Prozent 10 Nov
+[AI] Reserve nicht im Bericht OpenAI Odessia Reiseagent Uebernahme, ChatGPT Enterprise AWS Marketplace, OpenAI visuelles Werbeformat live, Anthropic Claude Meetings Google Meet zuerst, Stifel Partnerschaft Claude Advisors, QuEra Harvard Anthropic Quantum-Circuits, Anthropic Claude for Teachers Datenschutz-Standards, Anthropic Max Klage (bereits 9 Nov)
+[Termin] Fr 13 Nov Starship Flug 15 22:45 UTC Doppelfang ULA Vulcan Return-to-Flight Apple TV 4K und HomeView Verkauf USA Anthropic IPO-Preis
+[Termin] Sa 14 Nov Rocket Lab Electron hundertster Start NET
+[Termin] 17-20 Nov Microsoft Ignite Office in Copilot GA Mitte Nov 19 Nov Anthropic Handelsstart Nasdaq
+[Termin] 21 Nov BepiColombo Merkur-Orbit 25 Nov Hera Dimorphos-Detailbilder Dezember iOS 27.3 Release Apple Intelligence China Blue Origin New Glenn Januar 2027
