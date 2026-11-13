@@ -1,0 +1,15 @@
+[Schweiz] SMI Donnerstag 12 Nov neues Allzeithoch intraday 15'200,17 Schluss 15'149,43 +0,63 Prozent Zurich +2,1 nach Q3-Volumenzahlen Erwartungen erfuellt Swiss Re Swiss Life mit Adecco +14,8 breiter Markt starke Profitabilitaet Konzernumbau Partners Group -3,2 Goldman Sachs Verkaufsempfehlung Kursziel 610
+[Schweiz/Tech] Nvidia-Chef Jensen Huang zuruckgetreten nach mehreren Affaeren und Spionageverdacht Finanzchefin Colette Kress interim Grundstimmung nervös SMI-Treiber 12 Nov
+[Apple] Apple TV 4K vierte Generation und HomeView Smart-Home-Display US-Verkaufsstart heute Fr 13 Nov Siri Apple Intelligence Apple-Home-Collection-Zubehoer Vorverkauf heute Auslieferung Dezember
+[Apple] Nintendo stellt Anmelden mit Apple Sign in with Apple im Januar ein betroffene Konten brauchen anderen Login macrumors 12 Nov
+[Apple/Tools] ruhig Ausblick Microsoft Ignite 17-20 Nov neue Copilot Power BI Funktionen erwartet
+[Raumfahrt] Starship Flug 15 Startversuch heute Fr 13 Nov 23:45 Uhr CET 22:45 UTC Doppelfang beide Stufen Booster und Oberstufe erste vollstaendige Rueckkehr Orbitalrakete 26 Starlink V3 FAA-Freigabe Wetter offen (Launch-Tag als Event, Hintergrund bereits ausfuehrlich berichtet)
+[Raumfahrt] ULA Vulcan Return-to-Flight heute Fr 13 Nov Fenster 18:54 Uhr CET 17:54 UTC Cape Canaveral erster Flug seit Triebwerksstoerung Februar erstmals alle sechs Feststoffbooster VC6L 40 Amazon-Leo-Satelliten erste auf Vulcan Amazon bisher rund 400 von ueber 3000 im Orbit
+[Raumfahrt] kein neuer TWIS-Pick neustes Video 9 Nov Lunar Starlink Moon-Contracts Starship Doppelfang bereits ausgeschoepft
+[AI] Frontier-AI-Klage 12 Nov vier gemeinnuetzige Organisationen Public Citizen Irreplaceable Education Fund Heat Initiative Alliance for Secure AI gegen Anthropic OpenAI Google Meta SpaceX KI-Sparte San Francisco Superior Court Notstopp fortschrittlichste Modelle Einfrieren bis menschliche Kontrolle bewiesen California Unfair Competition Law Public Nuisance Ex-NJ-AG Matthew Platkin zitiert Amodei 25 Prozent Katastrophenrisiko kurz vor Anthropic-IPO
+[AI] OpenAI Daybreak Cyber-Event 12 Nov zwei neue Produkte Daybreak Defense Factory und Daybreak Red Team Blue nimmt geprueften Verteidigern Cyber-Schutzschranken ab GPT-5.6 Sol Red Modell fuer offensive Sicherheitsarbeit
+[AI] Google Gemini 4 Hydrogen neues Modell 12 Nov in KI-Suche AI Mode komplexere Fragen besser verstehen (Gemini Decision 1 11 Nov Reserve)
+[Termin] heute Fr 13 Nov Starship Flug 15 23:45 CET ULA Vulcan 18:54 CET Apple TV 4K und HomeView US-Verkauf
+[Termin] Sa 14 Nov Rocket Lab Electron hundertster Start
+[Termin] 17-20 Nov Microsoft Ignite Copilot Power BI 18 Nov Anthropic IPO-Preis 19 Nov Handelsstart Nasdaq ANT
+[Termin] 21 Nov BepiColombo Merkur-Orbit 25 Nov Hera Dimorphos-Detailbilder Dezember iOS 27.3 Release 11 Dez ChatGPT Advanced Standard Voice Aus Blue Origin New Glenn Januar 2027
