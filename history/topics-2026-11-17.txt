@@ -1,0 +1,14 @@
+[Schweiz] SPK-N Staatspolitische Kommission Nationalrat will obligatorisches Referendum Volks- und Staendemehr fuer Stabilisierungsteil EU-Vertragspaket Bilaterale hoehere Huerde 16 Nov
+[Schweiz] SMI Di 17 Nov neues Allzeithoch Vormittag rund 15'210 Punkte Richemont +2,8 Erholung Pharma Roche in Form Adecco -4,7 Nvidia-Zahlen und Anthropic-IPO im Blick
+[Apple] iOS 27.3 Beta 2 16 Nov Siri AI beantwortet Gesundheitsfragen aus Health-App Siri nutzt ganze Safari-Webseite als Kontext Kalender-App Redesign Bedienelemente unten Apple TV App Video-Podcasts Hochformat-Clips iPhone Duo Face Unlock macOS Full Disk Access Privacy Siri AI auf Apple TV 4K Release erste Dezemberhaelfte
+[Tools] Microsoft Ignite 17-20 Nov Start heute vorab Azure-System senkt Kosten Betrieb KI-Agenten Konter gegen Anthropic Copilot Managed Runtime GA Fabric-Integration Autopilot weitere Copilot Power BI Fabric Funktionen erwartet
+[Raumfahrt] Vulcan-Fallout Pentagon hatte Vulcan fuer Nationale-Sicherheits-Starts noch nicht freigegeben wartet Untersuchung ab Ursache offen Aufmerksamkeit BE-4-Haupttriebwerk Blue Origin auch in New Glenn Sorge Amazon weicht Leo-Satelliten auf Ariane 6 und Falcon 9 aus
+[Raumfahrt] Ariane 6 Ariane 64 Mo 23 Nov 10:12 UTC Kourou 36 Amazon-Leo-Satelliten LE-04 fuenfte Ariane-6-Mission 2026 europaeischer Start nach Vulcan-Verlust
+[Raumfahrt] BepiColombo Merkur-Orbit-Einschub Sa 21 Nov nach jahrelanger Reise Ausblick
+[AI] OpenAI holt vier unabhaengige Pruefteams Apollo Research METR Transluce Goodfire embed safety researchers untersuchen heimliche Taeuschung Subversion Modelle uebernimmt Anthropic-Ansatz METR Mo 16 Nov
+[AI] OpenAI Bildklassifikator gegen CSAM Kindesmissbrauch plus ChatGPT Warnbildschirme 24h-Konto-Sperre Classifier gratis via API Sicherheitsbedenken 16 Nov
+[AI] Alibaba Qwen4-Max 16 Nov neues Spitzenmodell 2,4 Billionen Parameter 1M Token Kontext closed weights laut Alibaba 60 Prozent tiefere Aufgabenkosten Preisdruck
+[AI] Anthropic IPO Ausgabepreis Mi 18 Nov Handelsstart Do 19 Nov Nasdaq ANT erstes grosses KI-Labor Boerse Termin kein neuer harter Fakt
+[AI/Markt] Nvidia Q3-Zahlen heute Di 17 Nov nach US-Boersenschluss erster Auftritt ohne Jensen Huang Colette Kress interim Huang-Comeback-Geruecht war room Musk
+[Termin] heute Di 17 Nov Nvidia Q3-Zahlen Abend Microsoft Ignite Start 18 Nov Anthropic IPO-Preis 19 Nov Handelsstart ANT 20 Nov Ignite Ende 21 Nov BepiColombo Merkur 23 Nov Ariane 6 Amazon-Leo
+[Reserve nicht im Bericht] OpenAI LVMH 17 Medienhaeuser ChatGPT Enterprise Deal 16 Nov, UK MOD verteidigt Satkom-Resilienz Sorge SpaceX-Starshield-Abhaengigkeit, SpaceNukes Los Alamos Fertigung Weltraum-Kernreaktor 13 Nov, Perseverance Idubi helle Gesteine aus frueheren Wassersystemen 16 Nov, Anthropic Claude unable to join meetings Ausfall 16 Nov, Microsoft Copilot Autopilot Video Creation usage-based billing Nov, Nvidia Comeback-Geruecht
