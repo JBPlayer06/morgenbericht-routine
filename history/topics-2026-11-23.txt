@@ -1,0 +1,12 @@
+[Schweiz] Montag Boerse oeffnet wieder nach ruppiger Woche SMI zuletzt vier Verlusttage Wochenminus rund 3,5 Prozent KI-Investitionszweifel (Kontext kein neuer Handelstag-Fakt)
+[Schweiz] Hinweis Woche Volksabstimmung Kriegsmaterialgesetz So 29 Nov Weitergabe Schweizer Waffen an Drittlaender Umfragen etwa gleich verteilt (Termin-Anker ruhiger Tag)
+[Apple] Gurman Power-On 22 Nov Siri-Entlassungen trafen alte Siri-Technik nicht Team neue KI-Systeme Kernproblem starrer Jahresrhythmus A-G Release-Kalender langsame Reaktion auf Konkurrenz Siri langsam schlechte Diktierfunktion mehrstufige Siri-App-Steuerung Dezember Fremd-Apps 2027 eigenstaendiger KI-Agent nicht vor Ende 2027
+[Apple] Arbeits-Tools nach Ignite-Woche ruhig Power BI Office nichts Neues Black-Friday-Aktion bis 30 Nov Geschenkkarten (Kontext)
+[Raumfahrt] Ariane 6 heute Mo 23 Nov Kourou gegen 13 Uhr MEZ 36 Amazon-Leo-Satelliten erster europaeischer Leo-Start seit ULA-Vulcan-Totalverlust 15 Nov vierte Leo-Mission 2026 zweiter Flug mit 36 statt 32 Satelliten laenger brennende Booster Amazon weicht nach Vulcan aus (heutiges Start-Event)
+[Raumfahrt] SpaceX Falcon 9 NROL-136 Vandenberg So 22 Nov Pad-Turnaround-Rekord SLC-4E gut 32 Stunden rund 23 Stunden schneller als Bestwert 15. NRO-proliferated-Mission Booster B1097 14. Flug Landung LZ-4 (Rekord)
+[Raumfahrt] kein TWIS-Pick neustes Video weiterhin Starship-Flight-15-Landung ~17 Nov Inhalte diese Woche bereits ausgeschoepft kein neues Video
+[AI] OpenAI Chefwissenschaftler Jakub Pachocki Beitrag Perplexity and Intelligence 22 Nov schlaegt Perplexitaet Cross-Entropy als branchenweites gemeinsames Mass fuer Vortraining-Fortschritt vor gemeinsame Grenzen common limits nicht ueberschreiten bis Sicherheitskontrolle Meilenstein erreicht legt erstmals interne Pretraining-Messwerte offen aehnlich Amodei pace the frontier Modell ~0,76 log-perplexity liefert Mathe-Durchbrueche
+[AI] Anthropic nach IPO-Woche uebers Wochenende nichts Neues (Leermeldung)
+[Termin] heute Mo 23 Nov Ariane 6 Kourou 36 Amazon-Leo Falcon 9 USSF-266 Vandenberg
+[Termin] Di 25 Nov China Tianzhou Frachter 29 Nov Volksabstimmung Kriegsmaterialgesetz Cygnus XL NET 29 Nov 27-30 Nov Apple Black Friday
+[Termin] 7 Dez Roman-Weltraumteleskop erste Bilder AGU 9 Dez BepiColombo MPO/Mio-Trennung 11 Dez ChatGPT Advanced/Standard Voice Aus Dezember iOS 27.3 Release Apple Intelligence China Januar 2027 Blue Origin New Glenn RTF
