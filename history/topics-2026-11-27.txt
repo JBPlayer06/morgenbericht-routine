@@ -1,0 +1,22 @@
+[Schweiz] SMI Donnerstag 26 Nov Schluss +1,04 Prozent 14'817,68 Punkte breite Gewinne bis auf Galderma Sandoz alle 20 im Plus Tech/Zykliker ABB Logitech VAT Auslöser späte Wall-Street-Erholung Vorabend US-Börsen Thanksgiving geschlossen
+[Schweiz] Bachem -9,8 Prozent enttäuschende neue Mittelfristziele bis 2031 Wachstum 15-18 Prozent Marge 33-35 Prozent unter Erwartungen Kapitalmarkttag
+[Schweiz] Orior -5,7 Prozent erneute Gewinnwarnung schwache Fleischnachfrage (im Bericht nur kurz/weggelassen)
+[Schweiz] erster Schweizer Spot-Bitcoin-ETF an SIX gestartet rund 350 BTC im Fonds 0,19 Prozent Jahresgebühr erster regulierter Bitcoin-Zugang Schweiz
+[Schweiz/AI] Anthropic baut Standort Zürich stark aus Bericht Tages-Anzeiger ca 2500 qm frühere Fraumünsterpost ca 150 Arbeitsplätze Miete ~2 Mio CHF/Jahr bezugsbereit H1 2027 Firma kein Kommentar Quiet Period nach IPO KI-Talent Nähe Pharma (Bericht 25 Nov)
+[Schweiz] Reserve nicht/knapp US-Zoll-Vorschlag 15 Prozent auf Schweizer Waren 14 Volkswirtschaften Konsultation (Thema bereits 26 Nov berichtet), Franken-Hoch, FINMA UBS Recovery Plan, Synature Lausanne 5,48 Mio EUR KI-Tierstimmen
+[Apple] ruhiger Tag Black-Friday-Aktion startet heute Fr 27 Nov bis 30 Nov Geschenkkarten bis 300 Dollar statt Rabatte auch Schweiz
+[Apple] Berichten zufolge Gurman (PRODUCT)RED AirPods Max 2 und HomePod mini 2 um 1 Dez nur Farbe neu
+[Apple] iOS 27.3 weiter Dezember Health-App runderneuert Siri-Aktionen Safari vertikale Tabs iPhone 17 Pro (Kontext, Details bereits Vortage)
+[Apple/Tools] Power BI Office keine frischen Ankündigungen (Excel-November-Update war 24 Nov, ausserhalb 36h, weggelassen)
+[Raumfahrt] ESA Hera erste Nahaufnahmen DART-Einschlag 2022 Dimorphos Krater Grösse Stadion über ganze Breite Mond taumelt unkontrolliert hunderte neue Felsbrocken DART verkürzte Orbit 33 Min offen war Krater/Form jetzt beides Hera im Dez auf 13 km Jan 2027 zwei CubeSats (ESA-Release 25 Nov)
+[Raumfahrt] Blue Origin New Glenn Return-to-Flight laut FAA-Unterlagen neu 22 Januar zweiter Start 20 Februar womöglich Blue Moon Mark 1 unbemannter Mondlander zum Mond nach Hotfire-Explosion Mai (neuer konkreter Termin vs früher Januar 2027)
+[Raumfahrt] EnduroSat (Sofia/Europa) zwei dedizierte New-Glenn-Starts gebucht erster 2029 Cape Canaveral Schwerlast-Nachfrage
+[Raumfahrt] Isar Aerospace Spectrum dritter Flug Startfenster öffnet ab Abend 26 Nov Andøya Norwegen baut eigenen Startplatz Spaceport Nova Scotia Kanada erste Flüge 2028
+[Raumfahrt] kein TWIS-Pick neustes This Week in Spaceflight weiterhin Europe's Capsule Looks Like Dragon 24 Nov Inhalte (Stoke Nova, Nyx, Relativity Terran R, Rocket Lab Neutron, Voyager1 1 Lichttag, Perseverance/Odyssey, Hayabusa2) diese Woche bereits ausgeschöpft kein neues Video (Nov 26 Upload war Starship-Update, kein TWIS)
+[Raumfahrt] Reserve nicht im Bericht Starmind FCC-Zulassung Detail Musk Q3 2027/Nvidia (bereits 26 Nov), Progress 97 ISS-Docking Thanksgiving, ESA Ozonloch eines der grössten 48 Jahre, MaiaSpace Modelle Kourou, Tiangong Pakistani an Bord (bereits 26 Nov)
+[AI] Anthropic Messages-API von Python auf Rust migriert Engineering-Post 25 Nov ~70 Prozent weniger CPU pro Anfrage ~20 Prozent kürzere Time-to-first-token kein Ausfall Claude schrieb ersten Entwurf Kerncode in ~1 Woche Grund Verkehr seit Anfang 2024 ~1800x gewachsen
+[AI] OpenAI Abrechnungsfehler GPT-6.2 Astra/Sol zu günstig korrigiert 26 Nov Limit nun ~40 Prozent schneller Astra ~25 Prozent schneller Sol einmalig banked reset Go/Plus/Pro/Business
+[AI] OpenAI testet Private Inference/private Verarbeitung ausgewählte Kunden 26 Nov Confidential Computing Firmendaten isoliert selbst OpenAI-Mitarbeitende kein Zugriff
+[AI] Reserve nicht im Bericht Anthropic MCP Skills/Tasks GA Elicitation File Uploads (Skills over MCP + Install-as-app bereits 26 Nov), Anthropic Siren Sandbox-Test (24 Nov), OpenAI ChatGPT Ads Update, Chat/Work Merge (bereits 26 Nov), Google DeepMind Mass Spec Skills Antigravity
+[Termin] So 29 Nov Volksabstimmung Kriegsmaterialgesetz Weitergabe Schweizer Waffen Drittländer Umfragen gleich verteilt So 29 Nov Cygnus NG-25 Falcon 9 Cape Canaveral 10:47 ET
+[Termin] 1 Dez (PRODUCT)RED AirPods Max 2/HomePod mini 2 3 Dez Europa Clipper letzter Erd-Vorbeiflug Gravity Assist Jupiter 3 Dez Huang Senate Banking Committee 7 Dez Roman-Weltraumteleskop erste Bilder AGU 9 Dez BepiColombo MPO/Mio-Trennung 11 Dez ChatGPT Advanced/Standard Voice Aus 16 Dez Nationalrat UBS-Kapitalregeln Dezember iOS 27.3 Release 22 Jan/20 Feb 2027 New Glenn RTF
